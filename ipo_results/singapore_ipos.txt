@@ -1,0 +1,10 @@
+================================================================================
+Run timestamp: 2025-12-23 16:32:25 +08
+Singapore IPO Watch – 2025-12-23
+
+No credible new Singapore IPO announcements found in the last 7 days. Recent SGX-listed IPO activity (e.g., UltraGreen.ai — listing Dec 3; Leong Guan — listing Dec 11) occurred earlier in December; I found no authoritative SGX / MAS / company press-release or reputable financial-news announcement of a newly announced or newly lodged Singapore-related IPO between 2025-12-16 and 2025-12-23. ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3433?utm_source=openai))
+
+If you’d like, I can:
+- keep monitoring SGX / MAS / Business Times / Straits Times and alert you to any new Singapore IPO announcements, or
+- run a targeted search for IPO filings (preliminary prospectus / offer documents) for specific companies or sectors.
+
