@@ -9,9 +9,7 @@ import requests
 from openai import OpenAI
 
 SG_TZ = ZoneInfo("Asia/Singapore")
-
-# Where the file will live in your GitHub repo
-GITHUB_PATH = "ipo_results/singapore_ipos.txt"
+OUTPUT_DIR = "ipo_results"
 
 
 def get_env(name: str, required: bool = True) -> str:
@@ -21,37 +19,63 @@ def get_env(name: str, required: bool = True) -> str:
     return val
 
 
+def today_sg() -> str:
+    return datetime.now(SG_TZ).strftime("%Y-%m-%d")
+
+
+def make_output_path() -> str:
+    # e.g., ipo_results/singapore_ipos_2025-12-23.txt
+    return f"{OUTPUT_DIR}/singapore_ipos_{today_sg()}.txt"
+
+
 def get_sg_ipo_updates_via_web_search() -> str:
     """
     Uses OpenAI Responses API with web_search tool to find SG IPO updates.
+    Enforces plain-text output (no Markdown) and prioritizes SGX/MAS.
     """
     client = OpenAI()
-    today = datetime.now(SG_TZ).strftime("%Y-%m-%d")
+    today = today_sg()
 
     prompt = f"""
-You are a finance research assistant.
+You are a careful finance research assistant.
 
-Task:
-Find newly announced or upcoming Initial Public Offerings (IPOs) relevant to Singapore (SGX listings, Singapore-based issuers, or listings strongly tied to Singapore) in the last 7 days as of {today}.
+Goal:
+Find newly announced or upcoming Initial Public Offerings (IPOs) relevant to Singapore in the last 7 days (as of {today}).
+Relevance = intended SGX listing, Singapore-registered issuer listing on SGX, or officially announced Singapore listing plans.
 
-Requirements:
-- Prefer authoritative sources: SGX announcements, company press releases, reputable financial news.
-- For each item provide:
-  1) Company / issuer name
-  2) Expected listing date (or TBA)
-  3) Exchange/board (SGX Mainboard/Catalist) if available
-  4) Brief description (1–2 lines)
-  5) Source URL(s)
+Start by searching authoritative PUBLIC sources first:
+1) SGX main site: https://www.sgx.com
+2) SGX Securities section: https://www.sgx.com/securities
+3) SGX “links.sgx.com” documents (prospectus / offer documents / announcements): https://links.sgx.com
+4) MAS site (only if relevant to IPO filings/announcements): https://www.mas.gov.sg
+
+Optional / secondary sources:
+- Business Times / other news sites MAY be paywalled. Do NOT rely on paywalled pages for confirmation unless the relevant facts are visible publicly elsewhere.
+
+Hard rules:
+- PLAIN TEXT ONLY. Do not use Markdown. No bullet symbols like “•” are fine, but avoid Markdown link formatting [text](url).
+- Do NOT invent IPOs. Every IPO item must have at least one source URL that supports it.
+- If you are not sure, do not claim it as confirmed. Put it under “WATCHLIST (Unconfirmed)”.
 
 Output format (plain text):
-Singapore IPO Watch – {today}
-1) ...
-2) ...
+Singapore IPO Watch - {today}
 
-If there are no credible new updates, say:
+CONFIRMED (with sources)
+1) Company:
+   Exchange/Board:
+   Expected listing date (or TBA):
+   Brief notes (1-2 lines):
+   Sources:
+   - https://...
+
+(Repeat…)
+
+WATCHLIST (Unconfirmed)
+(Only if you found credible hints but cannot confirm from authoritative public sources)
+
+If there are no credible new updates, output exactly:
 No credible new Singapore IPO announcements found in the last 7 days.
-
-Do NOT invent IPOs. Only include items supported by sources.
+And then list the public sources you checked (raw URLs).
 """
 
     resp = client.responses.create(
@@ -67,9 +91,6 @@ Do NOT invent IPOs. Only include items supported by sources.
 
 
 def github_get_file(repo: str, branch: str, path: str, token: str):
-    """
-    Returns (sha, existing_text) if file exists, else (None, "").
-    """
     url = f"https://api.github.com/repos/{repo}/contents/{path}"
     headers = {
         "Authorization": f"token {token}",
@@ -77,16 +98,12 @@ def github_get_file(repo: str, branch: str, path: str, token: str):
         "User-Agent": "sg-ipo-tracker-bot",
     }
     r = requests.get(url, headers=headers, params={"ref": branch}, timeout=30)
-
     if r.status_code == 404:
         return None, ""
     r.raise_for_status()
-
     data = r.json()
     sha = data.get("sha")
-    content_b64 = data.get("content", "")
-    content_b64 = content_b64.replace("\n", "")
-
+    content_b64 = (data.get("content") or "").replace("\n", "")
     existing = ""
     if content_b64:
         existing = base64.b64decode(content_b64).decode("utf-8", errors="replace")
@@ -94,16 +111,12 @@ def github_get_file(repo: str, branch: str, path: str, token: str):
 
 
 def github_put_file(repo: str, branch: str, path: str, token: str, new_text: str, sha: str | None, message: str):
-    """
-    Create or update a file in GitHub using Contents API.
-    """
     url = f"https://api.github.com/repos/{repo}/contents/{path}"
     headers = {
         "Authorization": f"token {token}",
         "Accept": "application/vnd.github+json",
         "User-Agent": "sg-ipo-tracker-bot",
     }
-
     content_b64 = base64.b64encode(new_text.encode("utf-8")).decode("ascii")
 
     payload = {
@@ -119,69 +132,53 @@ def github_put_file(repo: str, branch: str, path: str, token: str, new_text: str
     return r.json()
 
 
-def build_new_file_content(existing: str, new_block: str) -> str:
-    """
-    Appends a timestamped block to the existing content (with basic de-dupe).
-    """
-    stamp = datetime.now(SG_TZ).strftime("%Y-%m-%d %H:%M:%S %Z")
-    section = "\n".join([
-        "=" * 80,
-        f"Run timestamp: {stamp}",
-        new_block.strip(),
-        ""
-    ])
-
-    if section in existing:
-        return existing  # no change
-    if not existing.strip():
-        return section + "\n"
-    return existing.rstrip() + "\n" + section + "\n"
-
-
 def main():
-    # Required env vars on Render:
-    openai_key = get_env("OPENAI_API_KEY", required=True)
+    get_env("OPENAI_API_KEY", required=True)
     github_token = get_env("GITHUB_TOKEN", required=True)
 
-    # Optional env vars:
     repo = os.environ.get("GITHUB_REPO", "Krish1959/sg-ipo-tracker").strip()
     branch = os.environ.get("GITHUB_BRANCH", "main").strip()
 
-    # 1) Get IPO updates
-    new_block = get_sg_ipo_updates_via_web_search()
+    output_path = make_output_path()
 
-    # 2) Read current file from GitHub (if any)
-    sha, existing_text = github_get_file(repo, branch, GITHUB_PATH, github_token)
+    # 1) Fetch IPO updates (plain text)
+    body = get_sg_ipo_updates_via_web_search()
 
-    # 3) Build updated content
-    updated_text = build_new_file_content(existing_text, new_block)
+    # 2) Wrap with a run timestamp (still plain text)
+    stamp = datetime.now(SG_TZ).strftime("%Y-%m-%d %H:%M:%S %Z")
+    final_text = "\n".join([
+        "=" * 80,
+        f"Run timestamp: {stamp}",
+        body.strip(),
+        "",
+    ])
 
-    if updated_text == existing_text:
-        print("No changes detected; nothing to update in GitHub.")
+    # 3) Create/update dated file in GitHub
+    sha, existing = github_get_file(repo, branch, output_path, github_token)
+
+    # If already exists with same content, do nothing
+    if existing.strip() == final_text.strip():
+        print("No changes detected; file already up to date.")
         return
 
-    # 4) Push updated content to GitHub
-    today = datetime.now(SG_TZ).strftime("%Y-%m-%d")
-    msg = f"Update Singapore IPO watch – {today}"
-
+    msg = f"Singapore IPO watch - {today_sg()}"
     github_put_file(
         repo=repo,
         branch=branch,
-        path=GITHUB_PATH,
+        path=output_path,
         token=github_token,
-        new_text=updated_text,
+        new_text=final_text,
         sha=sha,
         message=msg,
     )
 
-    print(f"Updated {GITHUB_PATH} in {repo} on branch {branch}.")
+    print(f"Updated {output_path} in {repo} on branch {branch}.")
 
 
 if __name__ == "__main__":
     try:
         main()
     except requests.HTTPError as e:
-        # Print response text to help debugging auth/permissions
         print("HTTP error:", e)
         try:
             print("Response:", e.response.text)
