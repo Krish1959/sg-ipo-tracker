@@ -7,4 +7,28 @@ No credible new Singapore IPO announcements found in the last 7 days. Recent SGX
 If you’d like, I can:
 - keep monitoring SGX / MAS / Business Times / Straits Times and alert you to any new Singapore IPO announcements, or
 - run a targeted search for IPO filings (preliminary prospectus / offer documents) for specific companies or sectors.
+================================================================================
+Run timestamp: 2025-12-23 16:39:06 +08
+Singapore IPO Watch – 2025-12-23
+
+1) Company / issuer name:
+   Dex-lab Pte Ltd (60%-owned subsidiary of Nova MSC Berhad)
+
+   Expected listing date:
+   TBA
+
+   Exchange/board:
+   Proposed listing on Singapore Exchange (SGX) — Catalist board (proposed).
+
+   Brief description (1–2 lines):
+   Dex-lab is a Singapore-based humanoid robotics and eldercare-technology business (60% owned by Malaysia’s Nova MSC). Nova MSC has announced plans/proposals for Dex-lab to seek a Catalist listing on SGX to scale its robotics and eldercare technology across Singapore, Hong Kong, Australia and other APAC markets.
+
+   Source URL(s):
+   - The Edge (reporting Nova MSC’s proposal): https://theedgemalaysia.com/node/784338. ([theedgemalaysia.com](https://theedgemalaysia.com/node/784338?utm_source=openai))
+   - Nova MSC / Nova Hub company announcement (appointment of sponsor for proposed SGX listing): https://www.nova-hub.com/author/novahubadmin/ . ([nova-hub.com](https://www.nova-hub.com/author/novahubadmin/?utm_source=openai))
+   - Bursa Malaysia / market bulletin copies reporting the sponsor appointment and related filings: https://klse.i3investor.com/web/announcement/detail/2016500. ([klse.i3investor.com](https://klse.i3investor.com/web/announcement/detail/2016500?utm_source=openai))
+
+Note: I searched SGX announcements, MAS/Bursa/issuer filings and major Singapore business press for the period 16–23 Dec 2025. Apart from the Dex-lab (Nova MSC) proposal reported above, I did not find any other credible newly announced IPO filings or prospectus lodgements tied to SGX or Singapore-based issuers in that 7‑day window. ([theedgemalaysia.com](https://theedgemalaysia.com/node/784338?utm_source=openai))
+
+If you’d like, I can (a) scan SGX/MAS filings hourly for any new prospectus lodgements over the next few days, or (b) expand the search to regional secondary listings and SPAC/REIT filings.
 
