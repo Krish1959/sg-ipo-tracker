@@ -31,4 +31,20 @@ Singapore IPO Watch – 2025-12-23
 Note: I searched SGX announcements, MAS/Bursa/issuer filings and major Singapore business press for the period 16–23 Dec 2025. Apart from the Dex-lab (Nova MSC) proposal reported above, I did not find any other credible newly announced IPO filings or prospectus lodgements tied to SGX or Singapore-based issuers in that 7‑day window. ([theedgemalaysia.com](https://theedgemalaysia.com/node/784338?utm_source=openai))
 
 If you’d like, I can (a) scan SGX/MAS filings hourly for any new prospectus lodgements over the next few days, or (b) expand the search to regional secondary listings and SPAC/REIT filings.
+================================================================================
+Run timestamp: 2025-12-23 16:58:58 +08
+Singapore IPO Watch – 2025-12-23
+
+No credible new Singapore IPO announcements found in the last 7 days (Dec 16–23, 2025).
+
+Notes / sources checked (representative):
+- SGX corporate announcement — SGX Securities welcomes UltraGreen.ai to Mainboard (most recent notable SGX IPO, 3 Dec 2025). ([links.sgx.com](https://links.sgx.com/1.0.0/corporate-announcements/9858LTDAN1ZZFKN6/?utm_source=openai))  
+- UltraGreen.ai press releases (company IR / IPO materials; confirms listing activity earlier in Dec). ([ultragreen.ai](https://ultragreen.ai/press-releases/?utm_source=openai))  
+- Business Times coverage of UltraGreen.ai SGX debut (3 Dec 2025). ([businesstimes.com.sg](https://www.businesstimes.com.sg/companies-markets/ultragreen-ai-shares-jump-10-ipo-price-sgx-mainboard-trading-debut?utm_source=openai))  
+- SGX / links.sgx.com prospectus / listing documents index (no new prospectus/lodgement entries for SGX IPO applicants identified in the 16–23 Dec 2025 window during checks). ([links.sgx.com](https://links.sgx.com/1.0.0/prospectus-circulars/54241?utm_source=openai))  
+- Wider news checks (Reuters / The Straits Times / The Business Times / other market outlets) for Dec 16–23, 2025 — no credible reports of new SGX listing filings, prospectus lodgements or IPO launches in that period. ([reuters.com](https://www.reuters.com/business/media-telecom/ntt-has-lodged-preliminary-prospectus-list-reit-singapore-exchange-2025-06-27/?utm_source=openai))
+
+If you want, I can:
+- run a targeted live search of SGXNet / links.sgx.com / MAS prospectus registrations for specific company names or sectors (to re-check more exhaustively), or  
+- monitor and send another update if any new Singapore IPO announcements appear over the next X days. Which would you prefer?
 
