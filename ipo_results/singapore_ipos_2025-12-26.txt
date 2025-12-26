@@ -1,18 +1,146 @@
 ================================================================================
-Run timestamp: 2025-12-26 08:37:53 +08
-No credible new Singapore IPO announcements found in the last 7 days.
+Run timestamp: 2025-12-26 14:22:37 +08
+Singapore IPO Watch - 2025-12-26
 
-Public sources checked (raw URLs):
-https://www.sgx.com
-https://www.sgx.com/securities
-https://links.sgx.com
-https://www.sgx.com/securities/ipo-prospectus
-https://links.sgx.com/1.0.0/ipo-prospectus/3433
-https://links.sgx.com/1.0.0/ipo-prospectus/3434
-https://links.sgx.com/1.0.0/ipo-prospectus/3432
-https://links.sgx.com/1.0.0/ipo-prospectus/3417
-https://links.sgx.com/1.0.0/corporate-announcements/9858LTDAN1ZZFKN6/
-https://links.sgx.com/1.0.0/corporate-announcements/QN39B0REWFYSLIK2/
-https://www.mas.gov.sg
-https://www.businesstimes.com.sg/companies-markets/ever-glory-united-move-sgx-mainboard-dec-29-public-offer-7-6-times-subscribed/
-https://theedgemalaysia.com/content/advertise/norman-pang-group-announces-intention-to-list-on-sgx-with-pre-ipo-declaration-and-fund%20launch-collaborates-with-finas
+SECTION A — NEW ANNOUNCEMENTS (LAST 7 DAYS)
+(List only items announced or newly filed within the last 7 days)
+
+No newly announced Singapore IPOs or ETFs in the last 7 days.
+
+(Checked SGX corporate announcements / prospectus listings (links.sgx.com and sgx.com) for announcements dated 2025-12-20 through 2025-12-26; no new IPO/ETF prospectus lodgements or registration notices were found on SGX within that range. Sources: SGX IPO Prospectus index and links.sgx.com search results. See WATCHLIST for caveats.)
+
+SECTION B — CURRENTLY ACTIVE SGX IPO / ETF OFFERINGS
+(List ALL entries currently shown on the SGX IPO Prospectus page,
+even if announced earlier)
+
+Notes:
+- Where the SGX front-end page is dynamic and requires a browser, I used SGX’s document host (links.sgx.com) which is the authoritative SGX source for prospectus/offer documents. Each entry below has at least one SGX (links.sgx.com or sgx.com) source URL as required. I also include the SGX IPO Prospectus landing page as the primary page reference.
+- "Closing date (if shown)" is copied from the SGX-hosted prospectus page where available.
+
+1) UltraGreen.ai Limited
+   Type: IPO
+   Closing date (if shown): Dec 01 2025 (Mon) 12:00 PM (as shown on prospectus page)
+   Notes: Singapore-incorporated company; prospectus dated 26 Nov 2025.
+   Source:
+   - https://www.sgx.com/securities/ipo-prospectus
+   - https://links.sgx.com/1.0.0/ipo-prospectus/3433
+
+2) Infinity Development Holdings
+   Type: IPO
+   Closing date (if shown): Dec 01 2025 (Mon) 12:00 PM
+   Notes: Offer document and product highlights sheet available on SGX document host.
+   Source:
+   - https://www.sgx.com/securities/ipo-prospectus
+   - https://links.sgx.com/1.0.0/ipo-prospectus/3432
+
+3) Leong Guan Holdings Limited
+   Type: IPO
+   Closing date (if shown): Dec 09 2025 (Tue) 12:00 PM
+   Notes: Singapore-registered food manufacturing / distribution company; offer document on SGX.
+   Source:
+   - https://www.sgx.com/securities/ipo-prospectus
+   - https://links.sgx.com/1.0.0/ipo-prospectus/3434
+
+4) Coliwoo Holdings Limited
+   Type: IPO
+   Closing date (if shown): Nov 04 2025 (Tue) 12:00 PM
+   Notes: Co‑living property / operations; final prospectus on SGX.
+   Source:
+   - https://www.sgx.com/securities/ipo-prospectus
+   - https://links.sgx.com/1.0.0/ipo-prospectus/3430
+
+5) MetaOptics Ltd
+   Type: IPO
+   Closing date (if shown): Sep 05 2025 (Fri) 12:00 PM
+   Notes: Metalens technology company; offer documents on SGX document host.
+   Source:
+   - https://www.sgx.com/securities/ipo-prospectus
+   - https://links.sgx.com/1.0.0/ipo-prospectus/3423
+
+6) Centurion Accommodation REIT
+   Type: IPO (REIT)
+   Closing date (if shown): Sep 23 2025 (Tue) 12:00 PM
+   Notes: REIT prospectus registered and available on SGX; announcements on SGXNet re: lodgement/registration.
+   Source:
+   - https://www.sgx.com/securities/ipo-prospectus
+   - https://links.sgx.com/1.0.0/ipo-prospectus/3428
+   - (SGX corporate announcements re: lodgement/registration). https://links.sgx.com/1.0.0/corporate-announcements/6QKK87E6YKOR0CWD/
+
+7) Soon Hock Enterprise Holding Ltd
+   Type: IPO
+   Closing date (if shown): Oct 14 2025 (Tue) 12:00 PM
+   Notes: Industrial property developer; prospectus on SGX document host.
+   Source:
+   - https://www.sgx.com/securities/ipo-prospectus
+   - https://links.sgx.com/1.0.0/ipo-prospectus/3429
+
+8) Dezign Format Group Limited
+   Type: IPO
+   Closing date (if shown): Aug 13 2025 (Wed) 12:00 PM
+   Notes: Events/exhibitions/decor services; offer document on SGX.
+   Source:
+   - https://www.sgx.com/securities/ipo-prospectus
+   - https://links.sgx.com/1.0.0/ipo-prospectus/3421
+
+9) NTT DC REIT
+   Type: IPO (REIT)
+   Closing date (if shown): Jul 10 2025 (Thu) 12:00 PM
+   Notes: Data-centre REIT (Singapore real estate investment trust); registration prospectus on SGX.
+   Source:
+   - https://www.sgx.com/securities/ipo-prospectus
+   - https://links.sgx.com/1.0.0/ipo-prospectus/3417
+
+10) ASTREA 9 (product entries / tranche pages)
+    Type: IPO (debt / product IM / prospectus entries for Astrea 9 issuance)
+    Closing date (if shown): Aug 06 2025 (Wed) 12:00 PM (as shown on SGX prospectus pages)
+    Notes: Multiple prospectus / IM documents for Astrea 9 offerings (two related entries observed).
+    Source:
+    - https://www.sgx.com/securities/ipo-prospectus
+    - https://links.sgx.com/1.0.0/ipo-prospectus/3419
+    - https://links.sgx.com/1.0.0/ipo-prospectus/3420
+
+11) DBXT / db x-trackers ETF prospectus entries (examples visible on SGX prospectus list)
+    Type: ETF (multiple db x-trackers ETFs listed on SGX prospectus host)
+    Closing date (if shown): (typically blank / N/A for ETF prospectus entries on SGX pages)
+    Notes: SGX-hosted prospectus / PHS pages for a number of db x-trackers ETFs (examples include MSCI World TRN, iBoxx Singapore Government, S&P CNX Nifty, S&P 500 Short, FTSE Vietnam). These ETF prospectus documents are on SGX’s prospectus list and have their prospectus/PHS on links.sgx.com.
+    Source (examples):
+    - https://www.sgx.com/securities/ipo-prospectus
+    - DBXT MSCI WORLD TRN ETF 10: https://links.sgx.com/1.0.0/ipo-prospectus/2963
+    - DBXT IBOXX SINGAPORE ETF 5: https://links.sgx.com/1.0.0/ipo-prospectus/2992
+    - DBXT S&P CNX NIFTY ETF 10: https://links.sgx.com/1.0.0/ipo-prospectus/2925
+    - DBXT S&P 500 SHORT ETF 10: https://links.sgx.com/1.0.0/ipo-prospectus/2927
+    - DBXT FTSE VIETNAM ETF 10: https://links.sgx.com/1.0.0/ipo-prospectus/2928
+
+12) UOBAM Ping An ChiNext ETF (prospectus entry)
+    Type: ETF
+    Closing date (if shown): (blank / N/A on prospectus listing)
+    Notes: Prospectus (PHS) hosted on SGX document host (example of a non-db x-trackers ETF entry visible in the SGX prospectus index).
+    Source:
+    - https://www.sgx.com/securities/ipo-prospectus
+    - https://links.sgx.com/1.0.0/ipo-prospectus/3376
+
+(End of explicit list compiled from SGX prospectus document host search results. Each entry above was confirmed on SGX’s prospectus/document host (links.sgx.com).)
+
+WATCHLIST (Unconfirmed)
+- SGX front-end (https://www.sgx.com/securities/ipo-prospectus) is a dynamic page and my crawling relied on SGX document host (links.sgx.com) search results. There is a small chance a very recent filing (between 2025-12-25 and 2025-12-26) that uses only the SGX dynamic front-end has not surfaced in links.sgx.com search results yet. If you need absolute, minute-by-minute confirmation for Dec 26, 2025, I can re-query SGX corporate announcements and the SGX front-end live (or monitor SGXNet) and return a live re-check; please confirm if you want me to perform that live/real-time re-check now.
+- If you require a fully exhaustive historical dump of every "ipo-prospectus" entry ever on links.sgx.com (the site contains many historical entries), note that would be a much larger list; above I focused on the entries currently visible / recently updated in the SGX IPO prospectus index that are clearly relevant to Singapore IPOs / ETFs.
+
+Sources and verification (authoritative SGX items used)
+- SGX IPO Prospectus landing page (primary page reference):
+  - https://www.sgx.com/securities/ipo-prospectus
+- Representative SGX-hosted prospectus documents (examples cited above):
+  - UltraGreen.ai: https://links.sgx.com/1.0.0/ipo-prospectus/3433
+  - Infinity Development: https://links.sgx.com/1.0.0/ipo-prospectus/3432
+  - Leong Guan Holdings: https://links.sgx.com/1.0.0/ipo-prospectus/3434
+  - Coliwoo: https://links.sgx.com/1.0.0/ipo-prospectus/3430
+  - MetaOptics: https://links.sgx.com/1.0.0/ipo-prospectus/3423
+  - Centurion CAREIT: https://links.sgx.com/1.0.0/ipo-prospectus/3428
+  - Dezign Format: https://links.sgx.com/1.0.0/ipo-prospectus/3421
+  - NTT DC REIT: https://links.sgx.com/1.0.0/ipo-prospectus/3417
+  - Astrea 9 pages: https://links.sgx.com/1.0.0/ipo-prospectus/3419 and https://links.sgx.com/1.0.0/ipo-prospectus/3420
+  - db x-trackers / DBXT ETF examples: https://links.sgx.com/1.0.0/ipo-prospectus/2963, https://links.sgx.com/1.0.0/ipo-prospectus/2992, https://links.sgx.com/1.0.0/ipo-prospectus/2925, https://links.sgx.com/1.0.0/ipo-prospectus/2927, https://links.sgx.com/1.0.0/ipo-prospectus/2928
+  - UOBAM Ping An ChiNext ETF: https://links.sgx.com/1.0.0/ipo-prospectus/3376
+
+If you want:
+- I can re-run a targeted live check of SGXNet corporate announcements for Dec 20–26, 2025 to double-confirm SECTION A (I already searched SGX doc host and found no prospectus/registration announcements in that window, but I can re-check SGXNet live).
+- Or I can produce a downloadable table (CSV) of the SGX links.sgx.com "ipo-prospectus" entries I found (with closing dates and document filenames). Which would you prefer?
