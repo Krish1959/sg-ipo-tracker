@@ -1,0 +1,18 @@
+================================================================================
+Run timestamp: 2025-12-26 08:37:53 +08
+No credible new Singapore IPO announcements found in the last 7 days.
+
+Public sources checked (raw URLs):
+https://www.sgx.com
+https://www.sgx.com/securities
+https://links.sgx.com
+https://www.sgx.com/securities/ipo-prospectus
+https://links.sgx.com/1.0.0/ipo-prospectus/3433
+https://links.sgx.com/1.0.0/ipo-prospectus/3434
+https://links.sgx.com/1.0.0/ipo-prospectus/3432
+https://links.sgx.com/1.0.0/ipo-prospectus/3417
+https://links.sgx.com/1.0.0/corporate-announcements/9858LTDAN1ZZFKN6/
+https://links.sgx.com/1.0.0/corporate-announcements/QN39B0REWFYSLIK2/
+https://www.mas.gov.sg
+https://www.businesstimes.com.sg/companies-markets/ever-glory-united-move-sgx-mainboard-dec-29-public-offer-7-6-times-subscribed/
+https://theedgemalaysia.com/content/advertise/norman-pang-group-announces-intention-to-list-on-sgx-with-pre-ipo-declaration-and-fund%20launch-collaborates-with-finas
