@@ -40,43 +40,81 @@ def get_sg_ipo_updates_via_web_search() -> str:
 You are a careful finance research assistant.
 
 Goal:
-Find newly announced or upcoming Initial Public Offerings (IPOs) relevant to Singapore in the last 7 days (as of {today}).
-Relevance = intended SGX listing, Singapore-registered issuer listing on SGX, or officially announced Singapore listing plans.
+Perform TWO distinct tasks for Singapore-related listings as of {today}:
 
-Start by searching authoritative PUBLIC sources first:
-1) SGX main site: https://www.sgx.com
-2) SGX Securities section: https://www.sgx.com/securities
-3) SGX “links.sgx.com” documents (prospectus / offer documents / announcements): https://links.sgx.com
-4) MAS site (only if relevant to IPO filings/announcements): https://www.mas.gov.sg
-5) SGX ipo listing https://www.sgx.com/securities/ipo-prospectus
+TASK A — NEW ANNOUNCEMENTS (TIME-BOUND)
+Find newly announced or newly filed Initial Public Offerings (IPOs) relevant to Singapore
+in the last 7 days (as of {today}).
+Relevance = intended SGX listing, Singapore-registered issuer listing on SGX,
+or officially announced Singapore listing plans.
+
+TASK B — CURRENTLY ACTIVE OFFERINGS (SNAPSHOT)
+Independently of announcement date, identify ALL currently active offerings
+(IPOs AND ETFs) that appear on the SGX IPO Prospectus page, including those
+with future closing dates.
+This task is a current-state snapshot and is NOT limited to the last 7 days.
+
+Authoritative PUBLIC sources to prioritize (in this order):
+1) SGX IPO Prospectus page:
+   https://www.sgx.com/securities/ipo-prospectus
+2) SGX main site:
+   https://www.sgx.com
+3) SGX Securities section:
+   https://www.sgx.com/securities
+4) SGX “links.sgx.com” documents (prospectus / offer documents / announcements):
+   https://links.sgx.com
+5) MAS site (only if relevant to IPO filings/announcements):
+   https://www.mas.gov.sg
 
 Optional / secondary sources:
-- Business Times / other news sites MAY be paywalled. Do NOT rely on paywalled pages for confirmation unless the relevant facts are visible publicly elsewhere.
+- Business Times or other news sites MAY be paywalled.
+  Do NOT rely on paywalled pages unless the same facts are visible from public sources.
 
 Hard rules:
-- PLAIN TEXT ONLY. Do not use Markdown. No bullet symbols like “•” are fine, but avoid Markdown link formatting [text](url).
-- Do NOT invent IPOs. Every IPO item must have at least one source URL that supports it.
-- If you are not sure, do not claim it as confirmed. Put it under “WATCHLIST (Unconfirmed)”.
+- PLAIN TEXT ONLY. Do NOT use Markdown.
+- Do NOT invent listings.
+- Every listed IPO or ETF MUST have at least one public SGX-related source URL.
+- If information is incomplete or ambiguous, place it under WATCHLIST (Unconfirmed).
+- ETFs are valid results ONLY when explicitly listed on the SGX IPO Prospectus page.
 
 Output format (plain text):
+
 Singapore IPO Watch - {today}
 
-CONFIRMED (with sources)
-1) Company:
+SECTION A — NEW ANNOUNCEMENTS (LAST 7 DAYS)
+(List only items announced or newly filed within the last 7 days)
+
+1) Company / Instrument:
+   Type: IPO or ETF
    Exchange/Board:
-   Expected listing date (or TBA):
-   Brief notes (1-2 lines):
+   Expected listing or closing date (or TBA):
+   Brief notes (1–2 lines):
    Sources:
    - https://...
 
-(Repeat…)
+(Repeat as needed)
+
+SECTION B — CURRENTLY ACTIVE SGX IPO / ETF OFFERINGS
+(List ALL entries currently shown on the SGX IPO Prospectus page,
+even if announced earlier)
+
+1) Company / Instrument:
+   Type: IPO or ETF
+   Closing date (if shown):
+   Notes (e.g. Mainboard / Catalist / ETF type):
+   Source:
+   - https://www.sgx.com/securities/ipo-prospectus
+   - (additional SGX document links if available)
+
+(Repeat for all visible entries)
 
 WATCHLIST (Unconfirmed)
-(Only if you found credible hints but cannot confirm from authoritative public sources)
+(Only if credible hints exist but confirmation is insufficient)
 
-If there are no credible new updates, output exactly:
-No credible new Singapore IPO announcements found in the last 7 days.
-And then list the public sources you checked (raw URLs).
+If SECTION A has no results, explicitly state:
+No newly announced Singapore IPOs or ETFs in the last 7 days.
+
+SECTION B must still be completed if active offerings exist.
 """
 
     resp = client.responses.create(
