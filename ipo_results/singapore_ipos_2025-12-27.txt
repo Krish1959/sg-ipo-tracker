@@ -1,0 +1,103 @@
+================================================================================
+Run timestamp: 2025-12-27 02:04:23 +08
+Singapore IPO Watch - 2025-12-27
+
+SECTION A — NEW ANNOUNCEMENTS (LAST 7 DAYS)
+(List only items announced or newly filed within the last 7 days)
+
+No newly announced Singapore IPOs or ETFs in the last 7 days.
+
+Notes / basis: I checked the SGX IPO Prospectus page and the SGX links (links.sgx.com) for prospectus / listing documents published or updated between 2025-12-20 and 2025-12-27. SGX/links.sgx.com activity in that week includes listing prospectus filings for debt securities (e.g. Sunac China listing document) but I did not find any new IPO (equity/REIT) or ETF prospectus filings or registrations that meet your relevance criteria in the 7-day window. Sources: SGX IPO Prospectus landing page and recent links.sgx.com prospectus listings. ([sgx.com](https://www.sgx.com/securities/ipo-prospectus))
+
+SECTION B — CURRENTLY ACTIVE SGX IPO / ETF OFFERINGS
+(List ALL entries currently shown on the SGX IPO Prospectus page, even if announced earlier)
+
+Note: each entry below is shown on SGX’s IPO/Prospectus listings (links.sgx.com). I include the SGX IPO Prospectus landing page plus the issuer’s SGX-hosted prospectus page (links.sgx.com) as the source for each item.
+
+1) ULTRAGREEN.AI LIMITED
+   Type: IPO
+   Closing date (if shown): Dec 01 2025 (12:00 PM) — (offer/closing shown on the prospectus page)
+   Notes: Singapore-incorporated issuer; Mainboard listing (prospectus available). Final prospectus dated 26 Nov 2025. 
+   Source:
+   - https://www.sgx.com/securities/ipo-prospectus. ([sgx.com](https://www.sgx.com/securities/ipo-prospectus))
+   - UltraGreen.ai prospectus (SGX links): https://links.sgx.com/1.0.0/ipo-prospectus/3433. ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3433))
+
+2) INFINITY DEVELOPMENT HOLDINGS
+   Type: IPO
+   Closing date (if shown): Dec 01 2025 (12:00 PM)
+   Notes: Offer document / final offer materials available on SGX links page.
+   Source:
+   - https://www.sgx.com/securities/ipo-prospectus. ([sgx.com](https://www.sgx.com/securities/ipo-prospectus))
+   - Infinity Development Holdings prospectus (SGX links): https://links.sgx.com/1.0.0/ipo-prospectus/3432. ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3432))
+
+3) LEONG GUAN HOLDINGS LIMITED
+   Type: IPO
+   Closing date (if shown): Dec 09 2025 (12:00 PM)
+   Notes: Singapore-incorporated food manufacturing / distribution company; offer document on SGX links.
+   Source:
+   - https://www.sgx.com/securities/ipo-prospectus. ([sgx.com](https://www.sgx.com/securities/ipo-prospectus))
+   - Leong Guan prospectus (SGX links): https://links.sgx.com/1.0.0/ipo-prospectus/3434. ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3434))
+
+4) NTT DC REIT
+   Type: IPO (REIT)
+   Closing date (if shown): Jul 10 2025 (12:00 PM) — shown on the prospectus page (note: listing occurred earlier in 2025)
+   Notes: Registration prospectus / REIT prospectus on SGX links; sponsor: NTT; listing prospectus available. (Included because it appears in SGX prospectus listings.)
+   Source:
+   - https://www.sgx.com/securities/ipo-prospectus. ([sgx.com](https://www.sgx.com/securities/ipo-prospectus))
+   - NTT DC REIT prospectus (SGX links): https://links.sgx.com/1.0.0/ipo-prospectus/3417. ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3417?utm_source=openai))
+
+5) CENTURION ACCOMMODATION REIT
+   Type: IPO (REIT)
+   Closing date (if shown): Sep 23 2025 (12:00 PM) — (initial offer/closing date shown in prospectus listing)
+   Notes: Prospectus and summary available on SGX links; listed on SGX (Mainboard) in Sept 2025; included because the prospectus remains on SGX’s prospectus listings.
+   Source:
+   - https://www.sgx.com/securities/ipo-prospectus. ([sgx.com](https://www.sgx.com/securities/ipo-prospectus))
+   - Centurion Accommodation REIT prospectus (SGX links): https://links.sgx.com/1.0.0/ipo-prospectus/3428. ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3428?utm_source=openai))
+
+6) DIGITAL CORE REIT
+   Type: IPO (REIT)
+   Closing date (if shown): Dec 02 2021 (12:00 PM) — (original offering closing date shown on the prospectus listing)
+   Notes: Prospectus (listing) remains on SGX links pages (historical but visible on SGX prospectus directory).
+   Source:
+   - https://www.sgx.com/securities/ipo-prospectus. ([sgx.com](https://www.sgx.com/securities/ipo-prospectus))
+   - Digital Core REIT prospectus (SGX links): https://links.sgx.com/1.0.0/ipo-prospectus/3356. ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3356?utm_source=openai))
+
+7) DBXT MSCI CHINA TRN ETF 10 (db x-trackers MSCI China TRN Index ETF)
+   Type: ETF
+   Closing date (if shown): (closing date entries shown on SGX links page; not always applicable for ETF listing offers)
+   Notes: ETF prospectus page hosted on SGX links (db x-trackers / Deutsche Bank ETF). ETFs are included only when shown on SGX’s IPO/Prospectus listings (this one appears there).
+   Source:
+   - https://www.sgx.com/securities/ipo-prospectus. ([sgx.com](https://www.sgx.com/securities/ipo-prospectus))
+   - DBXT MSCI CHINA TRN ETF 10 prospectus (SGX links): https://links.sgx.com/1.0.0/ipo-prospectus/3008. ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3008))
+
+8) LION-CM EM ASIA INDEX ETF
+   Type: ETF
+   Closing date (if shown): Dec 06 2024 (12:00 PM) (original offering closing date shown)
+   Notes: ETF prospectus materials are on SGX links (appears in SGX prospectus listings).
+   Source:
+   - https://www.sgx.com/securities/ipo-prospectus. ([sgx.com](https://www.sgx.com/securities/ipo-prospectus))
+   - Lion-CM EM ASIA Index ETF prospectus (SGX links): https://links.sgx.com/1.0.0/ipo-prospectus/3407. ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/2488?utm_source=openai))
+
+9) LION-NOMURA JAPAN ACTIVE ETF
+   Type: ETF
+   Closing date (if shown): Jan 25 2024 (11:30 AM) (original offering closing date shown)
+   Notes: ETF prospectus available on SGX links (Lion / Nomura ETF).
+   Source:
+   - https://www.sgx.com/securities/ipo-prospectus. ([sgx.com](https://www.sgx.com/securities/ipo-prospectus))
+   - Lion-Nomura Japan Active ETF prospectus (SGX links): https://links.sgx.com/1.0.0/ipo-prospectus/3394. ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3394?utm_source=openai))
+
+(End of listing of prospectus entries I located on SGX’s prospectus listings.)
+
+WATCHLIST (Unconfirmed)
+- SUNAC CHINA HOLDINGS LIMITED — Listing prospectus filed on SGX links (prospectus dated 19 Dec 2025) — this is a listing document for convertible bonds / mandatory convertible bond instruments (listing prospectus / listing document), published/updated 2025-12-24 on SGX links. It is not an equity IPO; included here as a watch item because it is a new SGX listing prospectus (debt) in the last 7 days but does not meet the IPO/ETF (equity/ETF) criteria. Confirm on links.sgx.com if you want it tracked as a listing prospectus (debt). Source: https://links.sgx.com/1.0.0/prospectus-circulars/56305. ([links.sgx.com](https://links.sgx.com/1.0.0/prospectus-circulars/56305?utm_source=openai))
+
+Important notes, methodology and caveats
+- I prioritised SGX’s IPO Prospectus landing page and SGX-hosted prospectus documents (links.sgx.com) as the authoritative public sources. Where the SGX landing page is dynamic and shows limited static text to crawlers, I used the SGX-hosted prospectus pages (links.sgx.com) which are the direct SGX-hosted prospectus records for each offering. ([sgx.com](https://www.sgx.com/securities/ipo-prospectus))
+- “New announcements” (SECTION A) was interpreted strictly as IPOs or ETFs (equity/ETF prospectus filings or registrations) that were newly announced or newly filed on SGX or SGX-hosted prospectus pages within 2025-12-20 through 2025-12-27. I did not find any IPO/ETF prospectus filings that meet that definition in that 7-day window. (There were SGX listing prospectus entries for other instrument types — e.g., bond listing prospectuses — during the period.) ([links.sgx.com](https://links.sgx.com/1.0.0/prospectus-circulars/56302?utm_source=openai))
+- SECTION B lists the IPO/ETF prospectus pages that are currently visible in SGX’s prospectus listings (links.sgx.com). Some of those offerings have original closing dates earlier in 2025 (or prior years) but their prospectus documents remain available on SGX’s prospectus listings and thus appear on the SGX IPO/Prospectus directory. Each entry above includes the SGX-hosted prospectus link (links.sgx.com) as required.
+- If you want a strictly current “open subscription” only view (i.e., offerings whose public subscription window is still open as of 2025-12-27), I can re-filter the list to show only items with closing dates after 2025-12-27 and confirm each with the prospectus and SGX announcements (and I will cite each). Let me know which view you prefer (all prospectus listings vs. currently open subscription windows).
+- If you want full copies of any of the prospectuses (download links) or specific details (offer size, offer structure, bookrunners, cornerstone investors, target listing board), tell me which issuer(s) and I’ll extract the key offer details and cite the exact SGX-hosted PDF(s).
+
+If you want, I can now:
+- Re-check SGX announcements (links.sgx.com corporate announcements + SGX IPO page) for any filings published on 2025-12-26 or 2025-12-27 (to be extra-certain for the last 48 hours), or
+- Produce a CSV-style list of the SECTION B items with their SGX links and the prospectus PDF filenames and dates.
