@@ -48,6 +48,7 @@ Start by searching authoritative PUBLIC sources first:
 2) SGX Securities section: https://www.sgx.com/securities
 3) SGX “links.sgx.com” documents (prospectus / offer documents / announcements): https://links.sgx.com
 4) MAS site (only if relevant to IPO filings/announcements): https://www.mas.gov.sg
+5) SGX ipo listing https://www.sgx.com/securities/ipo-prospectus
 
 Optional / secondary sources:
 - Business Times / other news sites MAY be paywalled. Do NOT rely on paywalled pages for confirmation unless the relevant facts are visible publicly elsewhere.
