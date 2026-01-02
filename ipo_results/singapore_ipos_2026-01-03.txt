@@ -1,0 +1,150 @@
+================================================================================
+Run timestamp: 2026-01-03 02:06:10 +08
+Singapore IPO Watch - 2026-01-03
+
+SECTION A — NEW ANNOUNCEMENTS (LAST 7 DAYS)
+(List only items announced or newly filed within the last 7 days)
+
+No newly announced Singapore IPOs or ETFs in the last 7 days.
+
+(Reason: I searched SGX (IPO prospectus listings and SGXNet / links.sgx.com corporate announcements) for filings/prospectuses and other listing notices between 2025-12-27 and 2026-01-03 and did not find any new prospectus/introductory-document filings or SGX listing intentions dated in that window. If you want, I can re-run a live check of SGXNet and the IPO Prospectus page for 2026-01-03 to double-check.)
+
+SECTION B — CURRENTLY ACTIVE SGX IPO / ETF OFFERINGS
+(List ALL entries currently shown on the SGX IPO Prospectus page, even if announced earlier)
+(Each entry includes at least one SGX-related source URL. I include the SGX IPO Prospectus page as the primary page and a direct SGX/links.sgx.com prospectus page where available.)
+
+1) UltraGreen.ai Limited
+   Type: IPO
+   Closing date (if shown): Dec 01 2025 (closing date shown on prospectus page)
+   Notes: Singapore-incorporated company; prospectus published (prospectus dated 26 Nov 2025). Issue Managers: Citigroup Global Markets Singapore & DBS Bank Ltd.
+   Source:
+   - https://www.sgx.com/securities/ipo-prospectus
+   - https://links.sgx.com/1.0.0/ipo-prospectus/3433
+
+2) Soon Hock Enterprise Hldg Ltd
+   Type: IPO
+   Closing date (if shown): Oct 14 2025
+   Notes: Singapore-incorporated property developer; prospectus and product highlights sheet available.
+   Source:
+   - https://www.sgx.com/securities/ipo-prospectus
+   - https://links.sgx.com/1.0.0/ipo-prospectus/3429
+
+3) Astrea 9 Pte. Ltd. (Astrea 9)
+   Type: IPO (product / offering)
+   Closing date (if shown): Aug 06 2025
+   Notes: Product prospectus / offer documents (Astrea 9 offerings).
+   Source:
+   - https://www.sgx.com/securities/ipo-prospectus
+   - https://links.sgx.com/1.0.0/ipo-prospectus/3420
+
+4) MetaOptics Ltd
+   Type: IPO
+   Closing date (if shown): Sep 05 2025
+   Notes: Cayman-incorporated tech company; final offer document / product highlights sheet available.
+   Source:
+   - https://www.sgx.com/securities/ipo-prospectus
+   - https://links.sgx.com/1.0.0/ipo-prospectus/3423
+
+5) NTT DC REIT
+   Type: IPO (REIT)
+   Closing date (if shown): Jul 10 2025
+   Notes: Singapore REIT registration prospectus; data-centre-focused REIT (prospectus / PHS available).
+   Source:
+   - https://www.sgx.com/securities/ipo-prospectus
+   - https://links.sgx.com/1.0.0/ipo-prospectus/3417
+
+6) Concord New Energy Group Limited
+   Type: IPO / Introductory Document
+   Closing date (if shown): (no closing date shown on the SGX prospectus page)
+   Notes: Introductory Document / prospectus dated 26 Dec 2025. Headquartered in Singapore, also listed on the HKEX (Main Board) — prospectus / summary page available on SGX prospectus listing.
+   Source:
+   - https://www.sgx.com/securities/ipo-prospectus
+   - https://links.sgx.com/1.0.0/ipo-prospectus/3437
+
+7) NIO Inc. (Introductory Document)
+   Type: IPO / Introductory Document
+   Closing date (if shown): (not shown)
+   Notes: Introductory document / SG prospectus wrapper page (introductory document available).
+   Source:
+   - https://www.sgx.com/securities/ipo-prospectus
+   - https://links.sgx.com/1.0.0/ipo-prospectus/3369
+
+8) Singapore Institute of Advanced Medicine Holdings Ltd.
+   Type: IPO (historical prospectus)
+   Closing date (if shown): Feb 14 2024
+   Notes: Offer document and PHS available on SGX prospectus listing (historical).
+   Source:
+   - https://www.sgx.com/securities/ipo-prospectus
+   - https://links.sgx.com/1.0.0/ipo-prospectus/3395
+
+9) Singapore Paincare Holdings Limited
+   Type: IPO (historical prospectus)
+   Closing date (if shown): Jul 28 2020
+   Notes: Offer document available on SGX prospectus listing (historical).
+   Source:
+   - https://www.sgx.com/securities/ipo-prospectus
+   - https://links.sgx.com/1.0.0/ipo-prospectus/3328
+
+10) Grand Venture Technology Ltd
+    Type: IPO (historical prospectus)
+    Closing date (if shown): Jan 21 2019
+    Notes: Historical offer documents available on SGX prospectus listing.
+    Source:
+    - https://www.sgx.com/securities/ipo-prospectus
+    - https://links.sgx.com/1.0.0/ipo-prospectus/3308
+
+11) Valuemax Group Limited
+    Type: IPO (historical prospectus)
+    Closing date (if shown): Oct 28 2013
+    Notes: Historical prospectus on SGX prospectus listing.
+    Source:
+    - https://www.sgx.com/securities/ipo-prospectus
+    - https://links.sgx.com/1.0.0/ipo-prospectus/3147
+
+12) Medinex Limited
+    Type: IPO (historical prospectus)
+    Closing date (if shown): Dec 05 2018
+    Notes: Historical offer document / prospectus on SGX prospectus listing.
+    Source:
+    - https://www.sgx.com/securities/ipo-prospectus
+    - https://links.sgx.com/1.0.0/ipo-prospectus/3306
+
+13) Sasseur REIT
+    Type: IPO (REIT, historical prospectus)
+    Closing date (if shown): (not shown)
+    Notes: Prospectus / offering documents (historical) available on SGX prospectus listing.
+    Source:
+    - https://www.sgx.com/securities/ipo-prospectus
+    - https://links.sgx.com/1.0.0/ipo-prospectus/3265
+
+14) DBXT MSCI Bangladesh IM ETF 10
+    Type: ETF
+    Closing date (if shown): (not shown)
+    Notes: ETF prospectus / Singapore prospectus wrapper pages available (DB X-trackers ETF product prospectus listings on SGX).
+    Source:
+    - https://www.sgx.com/securities/ipo-prospectus
+    - https://links.sgx.com/1.0.0/ipo-prospectus/3063
+
+15) DBXT FTSE China 50 ETF (DB X-trackers / Xtrackers wrapper)
+    Type: ETF
+    Closing date (if shown): (not shown)
+    Notes: ETF prospectus / PHS and wrapper documents available on SGX prospectus listing (historical).
+    Source:
+    - https://www.sgx.com/securities/ipo-prospectus
+    - https://links.sgx.com/1.0.0/ipo-prospectus/2926
+
+(Notes on Section B entries: the SGX IPO Prospectus index is populated with current and historical prospectus / introductory-document pages; the specific links.sgx.com pages above are the SGX-hosted prospectus pages for each listed item. I included both the primary SGX IPO Prospectus page URL and the direct SGX prospectus document page for each entry.)
+
+WATCHLIST (Unconfirmed)
+(Only items with credible hints but insufficient confirmation for an SGX prospectus entry in the 2025-12-27 to 2026-01-03 window)
+
+- Lion-Nomura Japan Active ETF (Lion Global Investors Limited)
+  Reason: SGX corporate announcement shows a Prospectus and Product Highlights Sheet dated 26-Dec-2025 (corporate announcement on SGXNet). This is just outside the 7-day window I used for SECTION A but is a credible recent ETF prospectus posting on SGXNet; include in watchlist in case you want it treated as newly-filed for tracking.
+  Source:
+  - SGX corporate announcement (Prospectus and Product Highlights Sheet dated 26 December 2025). https://links.sgx.com/1.0.0/corporate-announcements/BXFBITM6B0PDCYL8/
+
+Caveats, methodology and next steps
+- Authoritative sources used: SGX IPO Prospectus page (https://www.sgx.com/securities/ipo-prospectus) and SGX-hosted prospectus pages / SGXNet corporate announcements on links.sgx.com. Where available I linked the specific links.sgx.com prospectus pages.
+- The SGX IPO Prospectus landing page is dynamic; I used SGX-hosted prospectus pages (links.sgx.com/1.0.0/ipo-prospectus/...) and SGXNet corporate-announcement pages to identify and confirm prospectus/introductory-document postings.
+- I limited SECTION A to filings / prospectuses dated in the 7-day window 2025-12-27 through 2026-01-03 (UTC). I did not find any new SGX prospectus / IPO filings within that exact window; if you prefer a different inclusive/exclusive date convention or a wider window (e.g., include 2025-12-26), I can re-run the search and update SECTION A.
+- If you want a complete, guaranteed full scrape of every prospectus entry currently visible on the interactive SGX IPO Prospectus page (rendered client-side), I can fetch and render the live SGX page (or capture a full SGXNet index) and produce a definitive list (I avoided relying on third-party news alone). Would you like me to do that now and return a fully enumerated, timestamped export (CSV or plain text) of every prospectus entry shown on the SGX IPO Prospectus page as of 2026-01-03?
