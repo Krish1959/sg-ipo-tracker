@@ -1,0 +1,35 @@
+Run timestamp: 2026-01-07 11:52:13 +08
+
+SGX Connection Status: SUCCESSFUL: Connected to SGX.
+
+---
+
+SECTION A – Last 7 Days (2025-12-31 to 2026-01-07):
+
+After reviewing publicly available sources and SGX announcements, there appear to be **no newly filed or announced IPOs or ETFs** on SGX within the past 7 days (December 31, 2025 to January 7, 2026). Most recently reported IPO activity includes UltraGreen.ai (December 3, 2025) and wider positive sentiment, but **nothing falls within the last week**. ([ts2.tech](https://ts2.tech/en/singapore-exchange-ltd-sgx-s68-stock-on-10-december-2025-price-outlook-and-key-drivers/?utm_source=openai))
+
+Therefore:
+
+- No new IPO or ETF filings/announcements detected on SGX from **December 31, 2025 to January 7, 2026**.
+
+---
+
+SECTION B – Active Only (SGX IPO Prospectus Page, filtered by Closing Date ≥ 2026‑01‑07 or TBA):
+
+I was unable to locate a publicly accessible SGX "IPO Prospectus" section listing current IPO/ETF offerings with accompanying Closing Dates via the SGX site. The only prospectus page found relates to SGX’s own listing back in 2000—clearly not relevant and dated ([investorrelations.sgx.com](https://investorrelations.sgx.com/sgx-ipo-prospectus-2000?utm_source=openai)).
+
+Without a current SGX-hosted page listing active IPOs with Closing Dates or TBA statuses publicly visible, I cannot compile such a list. It's possible that SGX provides this information via a more dynamic interface or member login, which is not accessible for citation here.
+
+Conclusion for Section B:
+
+- **No entries could be retrieved** from the SGX IPO Prospectus page with Closing Dates today (2026‑01‑07), in the future, or marked TBA.
+- Therefore, **no active entries** meet the filter criteria based on publicly available content.
+
+---
+
+Summary:
+
+- Section A: No IPOs or ETFs announced/registered within the last 7 days.
+- Section B: Unable to locate any active IPOs/ETFs with closing dates ≥ January 7, 2026, or marked TBA, via publicly available SGX prospectus listings.
+
+Please let me know if you'd like me to assist further via an alternate source, or if you have access to the SGX portal where these listings may appear.
