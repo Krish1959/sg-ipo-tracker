@@ -17,89 +17,104 @@ def get_env(name: str, required: bool = True) -> str:
         raise RuntimeError(f"Missing env var {name}")
     return val
 
-def today_sg_dt() -> datetime:
-    return datetime.now(SG_TZ)
-
-def check_bot_protection(url: str):
+def check_sgx_connection():
     """
-    Explicitly checks the SGX website for bot protection/WAF.
-    Returns (is_blocked, reason)
+    Explicitly checks if SGX is blocking the runner.
     """
+    target_url = "https://www.sgx.com/securities/ipo-prospectus"
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
     }
     try:
-        # We use a short timeout to fail fast if blocked or throttled
-        resp = requests.get(url, headers=headers, timeout=10)
-        
-        # Check status codes
-        if resp.status_code == 403:
-            return True, "WAF Block (403 Forbidden) - Likely Cloudflare/Akamai"
-        if resp.status_code == 429:
-            return True, "Rate Limited (429 Too Many Requests)"
-            
-        # Check for common bot-protection fingerprints in HTML
-        content = resp.text.lower()
-        if "cloudflare" in content or "ray id" in content:
-            return True, "Cloudflare Challenge detected in HTML"
-        if "pardon our interruption" in content:
-            return True, "Akamai Bot Manager detected"
-            
-        return False, "Clear"
+        response = requests.get(target_url, headers=headers, timeout=15)
+        if response.status_code == 403:
+            return "BLOCKED: HTTP 403 (WAF/Bot Protection active)"
+        if "cloudflare" in response.text.lower():
+            return "BLOCKED: Cloudflare Challenge detected"
+        return "SUCCESSFUL: Connected to SGX"
     except Exception as e:
-        return True, f"Connection Error: {str(e)}"
+        return f"ERROR: Could not reach SGX ({str(e)})"
 
-def get_sg_ipo_updates_via_web_search():
+def get_sg_ipo_updates_via_web_search() -> str:
     client = OpenAI()
-    today_str = today_sg_dt().strftime("%Y-%m-%d")
-
-    # Step 1: Explicitly check the source status
-    is_blocked, bot_reason = check_bot_protection("https://www.sgx.com/securities/ipo-prospectus")
-    bot_status_msg = f"SGX Portal Connection Status: {'BLOCKED - ' + bot_reason if is_blocked else 'CONNECTED'}"
+    today = datetime.now(SG_TZ).strftime("%Y-%m-%d")
+    
+    # 1. Perform connection check
+    connection_status = check_sgx_connection()
 
     prompt = f"""
-You are a finance research assistant. Today's date is {today_str}.
+You are a careful finance research assistant. Today's date is {today}.
 
-TASK: Identify active IPOs and ETFs on SGX.
+TASK: Identify Singapore listings with STRICT filtering.
 
-CRITICAL FILTERING RULE:
-For SECTION B (Currently Active Offerings), you MUST check the 'Closing Date'.
-- If the closing date is BEFORE {today_str}, DO NOT list it in Section B.
-- If no closing date is provided but it is an 'Introductory Document', you may list it.
-- If it is an ETF and active, list it.
+1. BOT CHECK: 
+Current status for SGX connection is: {connection_status}. 
+If it says 'BLOCKED', report this at the top of your output.
 
-Sources: 
-1) https://www.sgx.com/securities/ipo-prospectus
-2) https://links.sgx.com
+2. SECTION A (Last 7 Days):
+Find newly filed or announced IPOs/ETFs from {today} back to 7 days ago.
 
-Output Format (Plain Text):
-{bot_status_msg}
+3. SECTION B (Active Only):
+List ALL entries from the SGX IPO Prospectus page, BUT YOU MUST APPLY A DATE FILTER:
+- Logic: If 'Closing Date' < {today}, EXCLUDE it. 
+- Goal: Do not list closed or obsolete entries like MetaOptics (Sep 2025) or UltraGreen (Dec 2025).
+- Include only those where Closing Date is today, in the future, or marked as 'TBA/To be announced'.
 
-SECTION A — NEW ANNOUNCEMENTS (LAST 7 DAYS)
-...
-
-SECTION B — CURRENTLY ACTIVE SGX IPO / ETF OFFERINGS
-(Only items where closing date >= {today_str} or no closing date is applicable)
-...
+Format: Plain text only. Include SGX source URLs.
 """
 
     resp = client.responses.create(
-        model=os.environ.get("OPENAI_MODEL", "gpt-4o"), # Updated to stable model
+        model=os.environ.get("OPENAI_MODEL", "gpt-4o"), # Using a robust model for date logic
         input=prompt,
         tools=[{"type": "web_search"}],
     )
 
-    return (resp.output_text or "").strip()
+    text = (resp.output_text or "").strip()
+    if not text:
+        raise RuntimeError("OpenAI returned empty output.")
+    return text
+
+def github_get_file(repo: str, branch: str, path: str, token: str):
+    url = f"https://api.github.com/repos/{repo}/contents/{path}"
+    headers = {"Authorization": f"token {token}", "Accept": "application/vnd.github+json"}
+    r = requests.get(url, headers=headers, params={"ref": branch}, timeout=30)
+    if r.status_code == 404: return None, ""
+    r.raise_for_status()
+    data = r.json()
+    content = base64.b64decode(data.get("content", "").replace("\n", "")).decode("utf-8")
+    return data.get("sha"), content
+
+def github_put_file(repo: str, branch: str, path: str, token: str, text: str, sha: str | None, msg: str):
+    url = f"https://api.github.com/repos/{repo}/contents/{path}"
+    headers = {"Authorization": f"token {token}", "Content-Type": "application/json"}
+    payload = {"message": msg, "content": base64.b64encode(text.encode("utf-8")).decode("ascii"), "branch": branch}
+    if sha: payload["sha"] = sha
+    r = requests.put(url, headers=headers, data=json.dumps(payload), timeout=30)
+    r.raise_for_status()
 
 def main():
-    # ... (GitHub logic remains same as original)
+    github_token = get_env("GITHUB_TOKEN")
+    repo = os.environ.get("GITHUB_REPO", "Krish1959/sg-ipo-tracker").strip()
+    branch = os.environ.get("GITHUB_BRANCH", "main").strip()
+    
+    today_str = datetime.now(SG_TZ).strftime("%Y-%m-%d")
+    output_path = f"{OUTPUT_DIR}/singapore_ipos_{today_str}.txt"
+
+    # Step 1: Generate Content
     body = get_sg_ipo_updates_via_web_search()
-    
     stamp = datetime.now(SG_TZ).strftime("%Y-%m-%d %H:%M:%S %Z")
-    final_text = f"{'='*80}\nRun timestamp: {stamp}\n{body}\n"
+    final_text = f"Run timestamp: {stamp}\n\n{body}"
+
+    # Step 2: Push to GitHub
+    sha, existing = github_get_file(repo, branch, output_path, github_token)
     
-    # ... (Proceed to GitHub upload)
-    print("Processing complete.")
+    # Check if content is truly new (prevents empty "success" runs)
+    if existing.strip() == final_text.strip():
+        print("No new content found compared to existing file. Skipping update.")
+        return
+
+    github_put_file(repo, branch, output_path, github_token, final_text, sha, f"Update IPO watch {today_str}")
+    print(f"Successfully updated {output_path}")
 
 if __name__ == "__main__":
     main()
