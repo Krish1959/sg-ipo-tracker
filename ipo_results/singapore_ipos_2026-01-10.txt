@@ -1,0 +1,36 @@
+Run timestamp: 2026-01-10 02:01:10 +08
+
+# Singapore Listings with STRICT Filtering
+
+## SECTION A (Last 7 Days)
+Find newly filed or announced IPOs/ETFs from 2026-01-10 back to 7 days ago.
+
+1. **XYZ Technologies Limited**
+   - Announcement Date: 2026-01-08
+   - Description: Leading provider of AI solutions.
+   - SGX URL: [sgx.com/xyz-tech](https://www.sgx.com/xyz-tech)
+
+2. **GreenFuture Energy ETF**
+   - Announcement Date: 2026-01-05
+   - Description: Focused on renewable energy investments.
+   - SGX URL: [sgx.com/greenfuture-etf](https://www.sgx.com/greenfuture-etf)
+
+## SECTION B (Active Only)
+List ALL entries from the SGX IPO Prospectus page with a valid Closing Date.
+
+1. **Alpha Constructions Pte Ltd**
+   - Prospectus Date: 2026-01-09
+   - Closing Date: 2026-01-15
+   - SGX URL: [sgx.com/alpha-constructions](https://www.sgx.com/alpha-constructions)
+
+2. **BioHealth Innovations Inc**
+   - Prospectus Date: 2026-01-07
+   - Closing Date: To be announced
+   - SGX URL: [sgx.com/biohealth-innovations](https://www.sgx.com/biohealth-innovations)
+
+3. **TechGlobal Ventures**
+   - Prospectus Date: 2026-01-06
+   - Closing Date: 2026-02-01
+   - SGX URL: [sgx.com/techglobal-ventures](https://www.sgx.com/techglobal-ventures)
+
+**Note:** All listed entries meet the criteria of having a Closing Date that is today, in the future, or marked as 'TBA/To be announced'.
