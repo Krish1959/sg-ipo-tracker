@@ -1,0 +1,35 @@
+Run timestamp: 2026-01-17 02:01:25 +08
+
+SGX Connection Status: SUCCESSFUL: Connected to SGX.
+
+---
+
+SECTION A (New filings/announcements in Last 7 Days: from 2026‑01‑10 to 2026‑01‑17)
+
+I searched for IPO or ETF filings announced between January 10–17, 2026 specific to SGX. However, I could not locate any **new** IPO or ETF filings or announcements within the past 7 days on SGX’s site or via media sources. Most recent coverage pertains to market trends or ETF performance metrics rather than new listings ([straitstimes.com](https://www.straitstimes.com/business/companies-markets/sgx-listed-etfs-log-2-4-billion-in-net-inflows-in-2025-funds-invested-at-all-time-high?utm_source=openai)).
+
+Therefore:
+
+– No newly filed or announced IPOs or ETFs have been identified in the period January 10–17, 2026.
+
+---
+
+SECTION B (Active Only – from SGX IPO Prospectus page, date filter applies)
+
+The official **IPO Prospectus** page I found appears to host a historical prospectus from 2000—not an updated list of active or pending IPOs ([investorrelations.sgx.com](https://investorrelations.sgx.com/sgx-ipo-prospectus-2000?utm_source=openai)). I did not locate an SGX-managed, up‑to‑date prospectus listing page that includes current entries with "Closing Date" fields.
+
+Without a proper live listing or table of IPO/ETF entries and their respective closing dates from SGX, I cannot determine which offerings remain active (i.e., with Closing Date ≥ 2026‑01‑17 or TBA).
+
+---
+
+Given the above, here is what I can conclude:
+
+SECTION A  
+- No new IPO/ETF filings or announcements found from **2026‑01‑10 to 2026‑01‑17**.
+
+SECTION B  
+- No active entries could be listed because:
+  1. The provided SGX IPO Prospectus page is historical and lacks current IPO/ETF entries.
+  2. I could not locate a current SGX page with pending IPO/ETF listings and their closing dates for filtering.
+
+If you can provide the link to SGX’s current IPO Prospectus page (or equivalent listing of pending offerings), I can apply the date filter and compile the active-only list for you.
