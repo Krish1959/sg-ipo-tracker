@@ -1,0 +1,49 @@
+Run timestamp: 2026-01-31 02:01:33 +08
+
+BOT CHECK: SGX connection status is SUCCESSFUL: Connected to SGX.
+
+SECTION A (Last 7 Days: from 2026‑01‑24 to 2026‑01‑31) – Newly filed or announced IPOs/ETFs on SGX:
+
+- **CSOP CSAM CSI A500 Index ETF** – IPO prospectus filed. Closing Date: January 14, 2026 (within past week). ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3438?utm_source=openai))  
+- **The Assembly Place Holdings Ltd.** – IPO prospectus filed. Closing Date: January 21, 2026 (within past week). ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3440?utm_source=openai))  
+
+No other new IPO/ETF prospectus entries appear from SGX within the past 7 days (to 31 Jan 2026).
+
+SECTION B (Active Only – from SGX IPO prospectus page with Closing Date ≥ 2026‑01‑31 or TBA):
+
+Review of all IPO prospectus entries from SGX, applying date filter:
+
+1. CSOP CSAM CSI A500 Index ETF – Closing Date: January 14, 2026 → **EXCLUDED** (closed before 2026‑01‑31). ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3438?utm_source=openai))  
+2. The Assembly Place Holdings Ltd. – Closing Date: January 21, 2026 → **EXCLUDED** (closed before 2026‑01‑31). ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3440?utm_source=openai))  
+3. DBXT FTSE Vietnam ETF 10 – Closing Date unspecified, but prospectus updated Jan 22, 2026; no Closing Date given → **Could be considered active only if closing is TBA or future**, but since date is unspecified, ambiguous; better to note as **Pending / TBA**. ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/2928?utm_source=openai))  
+4. Concord New Energy Group Limited – No Closing Date shown; updated Jan 2, 2026 → **Active / TBA or unknown**. ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3437?utm_source=openai))  
+5. Soon Hock Enterprise Hldg Ltd – Closing Date: October 14, 2025 → **EXCLUDED** (closed). ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3429?utm_source=openai))  
+6. Astrea 9… – Closing Date: August 6, 2025 → **EXCLUDED**. ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3420?utm_source=openai))  
+7. Infinity Development Holdings – Closing Date: December 1, 2025 → **EXCLUDED**. ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3432?utm_source=openai))  
+8. Info‑Tech Systems Ltd. – Closing Date: July 2, 2025 → **EXCLUDED**. ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3413?utm_source=openai))  
+
+Thus, **Active Only** list (Closing Date ≥ 2026‑01‑31 or TBA/unknown):
+
+- DBXT FTSE Vietnam ETF 10 – Closing Date: *not specified* (information updated 22 Jan 2026); status appears **Pending / To Be Announced**. ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/2928?utm_source=openai))  
+- Concord New Energy Group Limited – Closing Date: *not specified* in prospectus (updated 2 Jan 2026); status appears **Pending / To Be Announced**. ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3437?utm_source=openai))  
+
+No entries with explicit Closing Date today (31 Jan 2026) or in the future with a date were found.
+
+SGX source URLs:
+
+- CSOP CSAM CSI A500 Index ETF: https://links.sgx.com/1.0.0/ipo‑prospectus/3438  
+- The Assembly Place Holdings Ltd.: https://links.sgx.com/1.0.0/ipo‑prospectus/3440  
+- DBXT FTSE Vietnam ETF 10: https://links.sgx.com/1.0.0/ipo‑prospectus/2928  
+- Concord New Energy Group Limited: https://links.sgx.com/1.0.0/ipo‑prospectus/3437  
+
+Summary – Plain Text:
+
+SECTION A (Last 7 Days – new filings):
+- CSOP CSAM CSI A500 Index ETF — Closing Date: Jan 14, 2026.  
+- The Assembly Place Holdings Ltd. — Closing Date: Jan 21, 2026.
+
+SECTION B (Active Only – Closing Date ≥ Jan 31, 2026 or TBA/unknown):
+- DBXT FTSE Vietnam ETF 10 — Closing Date unspecified (likely TBA or future); prospectus updated Jan 22, 2026.  
+- Concord New Energy Group Limited — Closing Date unspecified (likely TBA or future); prospectus updated Jan 2, 2026.
+
+(All provided with SGX source URLs as above.)
