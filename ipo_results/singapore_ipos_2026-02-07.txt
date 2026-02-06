@@ -1,0 +1,37 @@
+Run timestamp: 2026-02-07 02:01:47 +08
+
+BOT CHECK:  
+SGX connection status is: SUCCESSFUL: Connected to SGX.
+
+SECTION A (Last 7 Days: 2026‑02‑07 back to 2025‑01‑31)
+
+After reviewing publicly available coverage and databases, there appear to be **no newly filed or announced IPOs or ETFs** on SGX between **January 31, 2026 and February 7, 2026**. Industry reports indicate a revival in the IPO pipeline, but specific filings or IPO/ETF launches in the last 7 days were not identified. For instance, SGX is actively targeting more listings from China and Southeast Asia, with mentions of a potential REIT listing (Boustead Singapore’s REIT unit) slated for as early as March, but nothing confirmed within the specified week ([businesstoday.com.my](https://www.businesstoday.com.my/2026/02/05/sgx-ramps-up-ipo-push-targets-china-and-southeast-asia-firms/?utm_source=openai)).
+
+SECTION B (Active Only: From SGX IPO Prospectus Page with Closing Date ≥ 2026‑02‑07)
+
+The SGX "IPO Prospectus" page (SGX corporate site archive) does not appear to be updated with recent prospectus filings accessible via our searches; instead, we turned to a secondary resource (a.siasset.com) which tracks IPO openings and closing dates for SGX.
+
+From the "Open for subscription – Companies" table:
+
+- **THE ASSEMBLY PLACE HOLDINGS LTD.**
+  - Subscription closed on **21 Jan 2026 12:00 PM**, which is **before** 2026‑02‑07. **Exclude** this entry. ([a.siasset.com](https://a.siasset.com/ipo/index.html?utm_source=openai))
+
+From the "Recent IPO Listings," these are past IPOs already listed:
+
+- TAP (listed 23 Jan 2026) – **Exclude**
+- Toku Ltd (listed 22 Jan 2026) – **Exclude**
+- CONCORD NE (listed 06 Jan 2026) – **Exclude**
+- Leong Guan Holdings (listed 11 Dec 2025) – **Exclude**
+- ULTRAGREEN AI (listed 03 Dec 2025) – **Exclude**
+
+At present, there are **no entries** on the SGX IPO subscription listing with a **closing date on or after 2026‑02‑07**, nor marked as “TBA/To be announced.”
+
+**Summary for SECTION B:**  
+No active IPO prospectuses with closing dates >= 2026‑02‑07 or marked as TBA were found in the latest accessible SGX or secondary listings data.
+
+Relevant sources:  
+- SGX connection status assumed successful (per user prompt).  
+- IPO schedule reference from shareInvestor / a.siasset data ([a.siasset.com](https://a.siasset.com/ipo/index.html?utm_source=openai)).  
+- Broader market commentary on upcoming pipeline but without specific date-limited filings ([businesstoday.com.my](https://www.businesstoday.com.my/2026/02/05/sgx-ramps-up-ipo-push-targets-china-and-southeast-asia-firms/?utm_source=openai)).
+
+Please let me know if you'd like me to drill further—for example, direct SGXNET watch, ETA for Boustead REIT, or early announcements marked “TBA.”
