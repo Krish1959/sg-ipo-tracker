@@ -1,0 +1,21 @@
+Run timestamp: 2026-02-14 02:01:30 +08
+
+BOT CHECK:  
+SGX connection status: SUCCESSFUL: Connected to SGX.
+
+SECTION A (Last 7 Days: from 2026‑02‑08 to 2026‑02‑14)
+
+I conducted searches targeting newly filed or announced IPOs or ETFs within the past week on SGX, but found **no results** indicating any new filings or announcements during the period from February 8, 2026 through February 14, 2026. The search did not reveal any relevant press releases or listing updates in that time window. Hence, **there were no newly filed or announced IPOs or ETFs on SGX during the past 7 days**.
+
+SECTION B (Active Only: Entries from SGX IPO Prospectus page with Closing Date ≥ 2026‑02‑14 or TBA)
+
+I located the SGX “IPO Prospectus” page, but the publicly accessible version appears to be historical (from the year 2000) and not updated with current listings ([investorrelations.sgx.com](https://investorrelations.sgx.com/sgx-ipo-prospectus-2000?utm_source=openai)). No new or updated entries with a “Closing Date” were identifiable, nor any recent listings with closing dates in 2026 or later.
+
+Therefore, based on available data:
+
+– There are **no active entries** currently visible on the public SGX IPO Prospectus page with a closing date of today (2026‑02‑14), in the future, or marked as TBA.  
+– Entries such as MetaOptics (Closing Date in Sep 2025) and UltraGreen (Dec 2025) remain closed and are correctly excluded per your date filter.
+
+Unfortunately, without access to a live, updated internal SGX investor‑relations portal that lists new/ongoing IPO prospectuses, I cannot provide any active entries. The publicly accessible IPO Prospectus page appears outdated. For fully accurate and up‑to‑date details, direct access to SGX investor relations or prospectus listing systems (with live filters on closing date) would be required.
+
+If you have access to an internal SGX IR feed or a secure listing dashboard, I recommend filtering there by “Closing Date ≥ 14 February 2026” or “TBA” to identify active IPO/ETF offerings.
