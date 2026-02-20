@@ -1,0 +1,45 @@
+Run timestamp: 2026-02-21 02:01:45 +08
+
+BOT CHECK: SGX connection status is SUCCESSFUL.
+
+SECTION A (Last 7 Days: IPOs/ETFs filed or announced between 2026‑02‑14 and 2026‑02‑21)
+
+My web searches did not reveal any newly filed or announced IPOs or ETFs on SGX within the past 7 days (from 14 February 2026 to 21 February 2026). The most recent filings found are dated in January 2026:
+
+• UOBAM Ping An FTSE ASEAN Dividend Index ETF – listed 29 January 2026 ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3436?utm_source=openai))  
+• CSOP CSAM CSI A500 Index ETF – listed 20 January 2026 ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3438?utm_source=openai))  
+
+No announcements or prospectus filings were identified in the period 14–21 February 2026.
+
+SECTION B (Active Only: SGX IPO Prospectus page entries with Closing Date ≥ 2026‑02‑21 or TBA)
+
+From the SGX prospectus list, applying the Closing Date filter (excluding any entries with Closing Date before 21 February 2026):
+
+Active or not-yet-closed filings include:
+
+1. **CSOP CSAM CSI A500 Index ETF** – Closing Date: 14 January 2026 (already closed before 21 Feb) – *EXCLUDE* ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3438?utm_source=openai))
+
+2. **UOBAM PA FTSE ASEAN DIV ETF** – Closing Date: 26 January 2026 – *EXCLUDE* ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3436?utm_source=openai))
+
+3. **Toku Ltd. (IPO)** – Closing Date: 20 January 2026 – *EXCLUDE* ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3439?utm_source=openai))
+
+4. **The Assembly Place Holdings Ltd. (IPO)** – Closing Date: 21 January 2026 – *EXCLUDE* ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3440?utm_source=openai))
+
+5. **Concord New Energy Group Limited (Introductory Document)** – No Closing Date specified (TBA likely) – *INCLUDE* ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3437?utm_source=openai))
+
+6. **UltraGreen.ai Limited (IPO)** – Closing Date: 1 December 2025 – *EXCLUDE* ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3433?utm_source=openai))
+
+Therefore, under the active-only filter (Closing Date ≥ 21 February 2026 or TBA), only:
+
+• **Concord New Energy Group Limited** – Introductory Document, no closing date specified, presumably still active/TBA. SGX source: IPO – CONCORD NEW ENERGY GROUP LIMITED ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3437?utm_source=openai))
+
+No others appear to meet the criteria of still open or TBA at or after 21 February 2026.
+
+Summary — Plain Text:
+
+SECTION A: Last 7 Days (2026‑02‑14 to 2026‑02‑21)  
+No newly filed or announced IPOs or ETFs on SGX were identified during this period.
+
+SECTION B: Active Only (Closing Date ≥ 21 February 2026 or TBA)  
+• Concord New Energy Group Limited – Introductory Document with no Closing Date specified (active/TBA)  
+  SGX source: IPO – CONCORD NEW ENERGY GROUP LIMITED ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3437?utm_source=openai))
