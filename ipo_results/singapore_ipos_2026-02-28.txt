@@ -1,0 +1,33 @@
+Run timestamp: 2026-02-28 02:01:51 +08
+
+BOT CHECK: SGX connection status: SUCCESSFUL.
+
+SECTION A (Last 7 Days: from 2026‑02‑21 to 2026‑02‑28)
+
+- No newly filed or announced IPOs or new ETF listings have been identified in the official SGX announcements or listing prospectus pages within the past 7 days (2026‑02‑21 to 2026‑02‑28). The only recent ETF-related announcement found is a name change (not a new listing) of the SPDR Straits Times Index ETF, dated 2 February 2026 ([links.sgx.com](https://links.sgx.com/1.0.0/corporate-announcements/B6D8GR3H0JGCPTQS/?utm_source=openai)).
+
+Therefore:
+
+SECTION A:
+none detected in past 7 days (2026‑02‑21 to 2026‑02‑28) per SGX sources.
+
+SECTION B (Active Only): all entries from the SGX IPO Prospectus page with closing date on or after 2026‑02‑28 (or marked TBA)
+
+From available SGX IPO prospectus listings:
+
+- THE ASSEMBLY PLACE HOLDINGS LTD. – IPO with Closing Date: 21 January 2026 (already closed before 28 February) → EXCLUDE ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3440?utm_source=openai)).
+
+No other IPO prospectus entries with future or “TBA” closing dates have been found in the recent results.
+
+Therefore:
+
+SECTION B:
+none meet criteria (closing date ≥ 2026‑02‑28 or TBA)
+
+Summary:
+
+SECTION A: None in last 7 days (2026‑02‑21 to 2026‑02‑28).
+
+SECTION B: No active IPO entries found with closing dates on or after 2026‑02‑28, or marked “TBA”.
+
+No SGX source URLs beyond cited ones.
