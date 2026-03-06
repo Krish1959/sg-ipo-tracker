@@ -1,0 +1,47 @@
+Run timestamp: 2026-03-07 02:01:50 +08
+
+BOT CHECK: SGX connection status is SUCCESSFUL.
+
+SECTION A – Last 7 Days (2026‑03‑01 to 2026‑03‑07):
+
+• LionGlobal Singapore Physical Gold ETF  
+  - Announced and opened its Initial Offer Period on 6 March 2026, running through to 20 March 2026 ([iocbc.com](https://www.iocbc.com/insights/SGX-IPOs.page?utm_source=openai)).  
+  - Scheduled to list on SGX on 26 March 2026 ([lionglobalinvestors.com](https://www.lionglobalinvestors.com/en/press/lion-global-investors-marks-tenth-etf-listing.html?utm_source=openai)).
+
+No other new IPOs or ETFs appear to have been filed or announced on SGX within the past seven days (back to 1 March 2026) based on available search results.
+
+SECTION B – Active Only: Entries from SGX IPO Prospectus page with Closing Date today, in the future, or TBA:
+
+From the SGX IPO Prospectus listings examined:
+
+• TOKU LTD. – Closing Date: 20 January 2026 → EXCLUDE (before 7 March 2026) ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3439?utm_source=openai)).  
+• THE ASSEMBLY PLACE HOLDINGS LTD. – Closing Date: 21 January 2026 → EXCLUDE ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3440?utm_source=openai)).  
+• INFO‑TECH SYSTEMS LTD. – Closing Date: 2 July 2025 → EXCLUDE ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3413?utm_source=openai)).  
+• SOON HOCK ENTERPRISE HLDG LTD – Closing Date: 14 October 2025 → EXCLUDE ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3429?utm_source=openai)).  
+• COLIWOO HOLDINGS LIMITED – Closing Date: 4 November 2025 → EXCLUDE ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3430/d85a6a669c77a76865ba421550b56b57f38989dd59a56a59dcf595a669b41a0c?utm_source=openai)).  
+• CONCORD NEW ENERGY GROUP LIMITED – No Closing Date specified (prospectus dated 26 December 2025) → TBA/Not listed → POTENTIALLY INCLUDE ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3437?utm_source=openai)).
+
+Based on the strict date‑filter logic ("Closing Date" < 2026‑03‑07 is to be excluded), the only prospectus entry that qualifies for inclusion is:
+
+• Concord New Energy Group Limited – Closing Date not specified (TBA/To Be Announced) ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3437?utm_source=openai)).
+
+Therefore, Section B listings active as of today (2026‑03‑07):
+
+• Concord New Energy Group Limited – (Introductory Document dated 26 December 2025; Closing Date TBA) – SGX IPO Prospectus entry ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3437?utm_source=openai)).
+
+***
+
+Plain text summary with SGX source URLs:
+
+SECTION A – Last 7 Days IPO/ETF announcements:
+
+- LionGlobal Singapore Physical Gold ETF – Initial Offer Period 6 March 2026 to 20 March 2026; Listing on SGX scheduled for 26 March 2026 (SGX via OCBC summary and Lion Global press release)  
+  Source: SGX summary (links.sgx.com via OCBC) and Lion Global press release
+
+SECTION B – Active Only (Closing Date ≥ 2026‑03‑07 or TBA):
+
+- Concord New Energy Group Limited – Introductory Document dated 26 December 2025; Closing Date not specified (TBA) (SGX IPO Prospectus page)
+
+All sources are SGX official documents: OCBC-hosted SGX IPO summary and SGX links to prospectus documents.
+
+Let me know if you’d like details on any specific entry or additional filtering.
