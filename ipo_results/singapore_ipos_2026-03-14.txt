@@ -1,0 +1,88 @@
+Run timestamp: 2026-03-14 02:01:36 +08
+
+BOT CHECK: SGX connection status: SUCCESSFUL: Connected to SGX.
+
+SECTION A (Last 7 Days – from 2026‑03‑14 back to 2026‑03‑07):
+
+A thorough search of the SGX site and related SGX prospectus pages shows no newly filed or announced IPOs or ETFs within the past seven days (i.e., between March 7 and March 14, 2026). The most recent filings and announcements found occurred in January 2026 and earlier. For example:
+
+- CSOP CSAM CSI A500 INDEX ETF had its IPO Closing Date on January 14, 2026 ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3438?utm_source=openai)).
+- UOBAM PA FTSE ASEAN DIV ETF had its Closing Date on January 26, 2026 ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3436?utm_source=openai)).
+- TOKU LTD. IPO had its Closing Date on January 20, 2026 ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3439?utm_source=openai)).
+
+None of these fall within the specified last‑7‑days window. Therefore:
+
+No newly filed or announced IPOs or ETFs were identified between 2026‑03‑07 and 2026‑03‑14.
+
+SECTION B (Active Only – from SGX IPO Prospectus page, excluding anything with Closing Date before 2026‑03‑14; include only entries with Closing Date on or after 2026‑03‑14 or marked TBA):
+
+From the SGX IPO Prospectus listing, here are all entries (IPOs and ETFs) found, with their Closing Dates, and applicability:
+
+1. CSOP CSAM CSI A500 INDEX ETF  
+   - Closing Date: January 14, 2026 (i.e. before 2026‑03‑14) ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3438?utm_source=openai))  
+   → Excluded.
+
+2. UOBAM PA FTSE ASEAN DIV ETF  
+   - Closing Date: January 26, 2026 (before 2026‑03‑14) ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3436?utm_source=openai))  
+   → Excluded.
+
+3. TOKU LTD. (IPO)  
+   - Closing Date: January 20, 2026 (before 2026‑03‑14) ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3439?utm_source=openai))  
+   → Excluded.
+
+4. DBXT FTSE VIETNAM ETF 10 (db x‑trackers FTSE VIETNAM ETF)  
+   - No Closing Date listed in the summary ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/2928?utm_source=openai)). The IPO prospectus page shows “Closing Date” field blank. This suggests either TBA or already closed but without date. However, since no explicit past date is listed and the field is empty, it could qualify as TBA.  
+   → Included (assumed TBA/no date).
+
+5. LION‑CM CSI DIV INDEX ETF  
+   - Closing Date: March 24, 2025 (well before 2026‑03‑14) ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3408?utm_source=openai))  
+   → Excluded.
+
+6. AMOVA ASIA EXJC ETF  
+   - Closing Date: March 21, 2025 (before 2026‑03‑14) ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3409?utm_source=openai))  
+   → Excluded.
+
+7. AMOVA SINGAPORE STI ETF S$A  
+   - Closing Date: Not listed (blank) ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3425?utm_source=openai))  
+   → Included (assumed TBA/no date).
+
+8. LION SHORT DUR BOND ACTIVE ETF  
+   - Closing Date: September 23, 2025 ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3424?utm_source=openai))  
+   → Excluded.
+
+9. INFINITY DEVELOPMENT HOLDINGS  
+   - Closing Date: December 1, 2025 ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3432?utm_source=openai))  
+   → Excluded.
+
+10. PHILLIP SING INCOME ETF  
+   - Closing Date: October 19, 2018 ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3304?utm_source=openai))  
+   → Excluded.
+
+11. AMOVA ASIA EXJC ETF USD  
+   - Closing Date: Not listed (blank) ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3426?utm_source=openai))  
+   → Included (assumed TBA/no date).
+
+12. LYXOR ETF MSCI EMERGING MKT 10  
+   - Closing Date: Not listed (blank) ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/2929?utm_source=openai))  
+   → Included (assumed TBA/no date).
+
+Thus, SECTION B summary (active only, Closing Date ≥ 2026‑03‑14 or TBA):
+
+- DBXT FTSE VIETNAM ETF 10 (db x‑trackers FTSE VIETNAM ETF) — Closing Date not provided/TBA.  
+  Source: SGX IPO Prospectus page ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/2928?utm_source=openai)).
+
+- AMOVA SINGAPORE STI ETF S$A — Closing Date not provided/TBA.  
+  Source: SGX IPO Prospectus page ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3425?utm_source=openai)).
+
+- AMOVA ASIA EXJC ETF USD — Closing Date not provided/TBA.  
+  Source: SGX IPO Prospectus page ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3426?utm_source=openai)).
+
+- LYXOR ETF MSCI EMERGING MKT 10 — Closing Date not provided/TBA.  
+  Source: SGX IPO Prospectus page ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/2929?utm_source=openai)).
+
+Plain‑text list with SGX source URLs (via citation references):
+
+DBXT FTSE VIETNAM ETF 10 – Closing Date: TBA (no date shown) – see SGX IPO Prospectus ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/2928?utm_source=openai))  
+AMOVA SINGAPORE STI ETF S$A – Closing Date: TBA (no date shown) – see SGX IPO Prospectus ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3425?utm_source=openai))  
+AMOVA ASIA EXJC ETF USD – Closing Date: TBA (no date shown) – see SGX IPO Prospectus ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3426?utm_source=openai))  
+LYXOR ETF MSCI EMERGING MKT 10 – Closing Date: TBA (no date shown) – see SGX IPO Prospectus ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/2929?utm_source=openai))
