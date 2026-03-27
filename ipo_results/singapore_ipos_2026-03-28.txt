@@ -1,0 +1,51 @@
+Run timestamp: 2026-03-28 02:01:57 +08
+
+BOT CHECK: SGX connection status: SUCCESSFUL (no blockage reported).
+
+SECTION A (Last 7 Days: from 2026‑03‑28 back to 2026‑03‑21):
+
+Based on searches, the only newly filed or announced listing within the last 7 days is the LionGlobal Singapore Physical Gold ETF:
+
+- **LionGlobal Singapore Physical Gold ETF** — Initial Offer Period: 6 March to 20 March 2026; officially listed on SGX on 26 March 2026 ([lionglobalinvestors.com](https://www.lionglobalinvestors.com/en/press/lion-global-investors-marks-tenth-etf-listing.html?utm_source=openai)).
+
+No other IPOs or ETFs were newly filed or announced between 21–28 March 2026 in available public sources.
+
+SECTION B (Active Only – from SGX IPO Prospectus page, filtering by Closing Date >= 2026‑03‑28 or TBA):
+
+From SGX’s IPO Prospectus listings discovered:
+
+- **CSOP CSAM CSI A500 Index ETF** – Closing Date: 14 January 2026 → has already closed; **EXCLUDE** ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3438?utm_source=openai)).
+
+- **UOBAM PA FTSE ASEAN DIV ETF** – Closing Date: 26 January 2026 → **EXCLUDE** ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3436?utm_source=openai)).
+
+- **Toku Ltd.** – Closing Date: 20 January 2026 → **EXCLUDE** ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3439?utm_source=openai)).
+
+- **Lion Short Dur Bond Active ETF** – Closing Date: 23 September 2025 → **EXCLUDE** ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3424?utm_source=openai)).
+
+- **UltraGreen.AI Limited** – Closing Date: 1 December 2025 → **EXCLUDE** ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3433?utm_source=openai)).
+
+- **NTT DC REIT** – Closing Date: 10 July 2025 → **EXCLUDE** ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3417?utm_source=openai)).
+
+- **Info‑Tech Systems Ltd.** – Closing Date: 2 July 2025 → **EXCLUDE** ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3413?utm_source=openai)).
+
+- **Soon Hock Enterprise Hldg Ltd** – Closing Date: 14 October 2025 → **EXCLUDE** ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3429?utm_source=openai)).
+
+- **Astrea9...** – Closing Date: 6 August 2025 → **EXCLUDE** ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3420?utm_source=openai)).
+
+- **Phillip SING Income ETF** – Closing Date: October 2018 → **EXCLUDE** ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3304?utm_source=openai)).
+
+- **Phillip SGD Money Market ETF** – Closing Date: September 2020 → **EXCLUDE** ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3332?utm_source=openai)).
+
+- **streetTRACKS Straits Times Index Fund** – Listing-related materials updated as of 3 March 2026; but no closing date listed → not eligible for listing under active (since no closing date or future date provided). Status uncertain. **EXCLUDE**, unless marked TBD—but no evidence.
+
+Therefore, **no active entries** from the SGX IPO Prospectus page have Closing Date ≥ 2026‑03‑28 or marked TBA.
+
+PLAIN TEXT SUMMARY including SGX source URLs:
+
+Section A (Last 7 Days – 21 to 28 March 2026):
+- LionGlobal Singapore Physical Gold ETF – IOP 6–20 March 2026; listed 26 March 2026. (Source: SGX via Lion Global Investors announcement and Straits Times) SGX source: https://www.lionglobalinvestors.com/en/press/lion-global-investors-marks-tenth-etf-listing.html and SGX IPO page via OCBC: https://www.iocbc.com/insights/SGX-IPOs
+
+Section B (Active Only – Closing Date ≥ 2026‑03‑28 or TBA):
+- *No listings currently active; all discovered IPO/ETF offerings have closing dates in the past.*
+
+— End of report.
