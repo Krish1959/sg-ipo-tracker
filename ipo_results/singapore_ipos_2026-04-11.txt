@@ -1,0 +1,49 @@
+Run timestamp: 2026-04-11 02:01:34 +08
+
+BOT CHECK: SGX connection status is: SUCCESSFUL.
+
+SECTION A (Last 7 Days: from 2026‑04‑05 to 2026‑04‑11)  
+No newly filed or announced IPOs or ETFs were identified on SGX within this seven‑day window.
+
+- Based on available SGX prospectus listings, none show announcement or filing dates within the period of 5 April to 11 April 2026 ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3438?utm_source=openai)).  
+- The most recent IPO-type entries include UI Boustead REIT, which closed its public offer on 10 March 2026 ([links.sgx.com](https://links.sgx.com/FileOpen/UI_Boustead_REIT_Prospectus_%285_March_2026%29.ashx?App=IPO&FileID=6738&utm_source=openai)), and CSOP CSI A500 Index ETF, whose closing date was 14 January 2026 ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3438?utm_source=openai))—both outside the requested week.
+
+Conclusion: There were no newly filed or announced IPOs or ETFs on SGX between 5 and 11 April 2026.
+
+SECTION B (Active Only: from SGX IPO Prospectus page, include only entries whose Closing Date ≥ 11 April 2026 or marked TBA)
+
+From the SGX IPO Prospectus listings, applying the filter "Closing Date < 2026‑04‑11 exclude":
+
+- CSOP CSAM CSI A500 Index ETF — Closing Date: 14 January 2026 → **EXCLUDE** ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3438?utm_source=openai)).  
+- UOBAM PA FTSE ASEAN DIV ETF — Closing Date: 26 January 2026 → **EXCLUDE** ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3436?utm_source=openai)).  
+- CSOP, UOBAM as above are before date, so excluded.  
+- Lion Short Dur Bond Active ETF — Closing Date: 23 September 2025 → **EXCLUDE** ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3424?utm_source=openai)).  
+- UI Boustead REIT IPO (REIT not ETF) — Closing Date: 10 March 2026 → **EXCLUDE** ([links.sgx.com](https://links.sgx.com/FileOpen/UI_Boustead_REIT_Prospectus_%285_March_2026%29.ashx?App=IPO&FileID=6738&utm_source=openai)).  
+- SPDR JPM Saudi Arabia AggBond ETF — Closing Date: *None specified* (blank) → **INCLUDE**, since the Closing Date is not present (interpreted as TBA or not specified) ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3422?utm_source=openai)).  
+- AMOVA Singapore STI ETF S$A — Closing Date: *None specified* → **INCLUDE** ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3425?utm_source=openai)).  
+- AMOVA Asia ex‑Japan ex‑China ETF USD — Closing Date: *None specified* → **INCLUDE** ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3426?utm_source=openai)).
+
+Therefore, SECTION B (Active Only: Closing Date today, in future, or TBA/unspecified):
+
+1. SPDR JPM Saudi Arabia Aggregate Bond UCITS ETF — Closing Date not specified (TBA/unspecified) ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3422?utm_source=openai)).  
+2. AMOVA Singapore STI ETF S$A — Closing Date not specified (TBA/unspecified) ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3425?utm_source=openai)).  
+3. AMOVA Asia ex‑Japan ex‑China Index ETF (USD class) — Closing Date not specified (TBA/unspecified) ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3426?utm_source=openai)).
+
+Plain text formatting with SGX source URLs:
+
+---
+
+SECTION A (Last 7 Days: 2026‑04‑05 to 2026‑04‑11)  
+No newly filed or announced IPOs or ETFs found in this period.
+
+SECTION B (Active Only: Closing Date ≥ 2026‑04‑11 or TBA/unspecified)  
+- SPDR JPM Saudi Arabia Aggregate Bond UCITS ETF — Closing Date not specified (TBA/unspecified)  
+  SGX prospectus: links.sgx.com/1.0.0/ipo‑prospectus/3422  
+- AMOVA Singapore STI ETF S$A — Closing Date not specified (TBA/unspecified)  
+  SGX prospectus: links.sgx.com/1.0.0/ipo‑prospectus/3425  
+- AMOVA Asia ex‑Japan ex‑China Index ETF (USD class) — Closing Date not specified (TBA/unspecified)  
+  SGX prospectus: links.sgx.com/1.0.0/ipo‑prospectus/3426
+
+---
+
+Let me know if you need further breakdowns or additional filtering.
