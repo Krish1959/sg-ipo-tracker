@@ -1,0 +1,46 @@
+Run timestamp: 2026-04-18 02:01:55 +08
+
+BOT CHECK:  
+SGX connection status: SUCCESSFUL: Connected to SGX.
+
+SECTION A (Last 7 Days – 2026‑04‑18 back to 2026‑04‑11):  
+Newly filed or announced IPOs/ETFs on SGX:
+
+- KIN GLOBAL LIMITED – IPO prospectus published; closing date **April 21, 2026 (Tue) 12:00 PM**. Said prospectus was updated on April 15, 2026 ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3443?utm_source=openai)).  
+- No other IPO or ETF prospectus filings located within this period.
+
+Thus, only one newly filed/announced IPO in the last 7 days: **KIN GLOBAL LIMITED**.
+
+SECTION B (Active Only – from SGX IPO Prospectus page, include entries with Closing Date ≥ 2026‑04‑18 or TBA):
+
+From SGX IPO prospectus listings:
+
+1. **KIN GLOBAL LIMITED**  
+   - Closing Date: April 21, 2026 – **future relative to 2026‑04‑18**, thus **INCLUDED**.  
+   - SGX source: IPO prospectus page for Kin Global ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3443?utm_source=openai)).
+
+2. **UI BOUSTEAD REIT**  
+   - Closing Date: March 10, 2026 – **< 2026‑04‑18**, thus **excluded** as closed.
+
+3. **LION SG PHYSICAL GOLD ETF**  
+   - Closing Date: March 20, 2026 – **< 2026‑04‑18**, thus **excluded**.
+
+4. **CSOP CSAM CSI A500 INDEX ETF**  
+   - Closing Date: January 14, 2026 – **< 2026‑04‑18**, excluded.
+
+5. **UOBAM PA FTSE ASEAN DIV ETF**  
+   - Closing Date: January 26, 2026 – **< 2026‑04‑18**, excluded.
+
+6. **SPDR JPM SAUDIARABIA AGGBD ACC**  
+   - Closing Date: not stated – unclear. Without Forward or TBA indication, assume closed or unspecified; likely not active.
+
+7. **streetTRACKS STRAITS TIMES INDEX FUND / SPDR STI ETF** – replacement prospectus updates, no Closing Date; not a new offer, excludes.
+
+Conclusion: Only **KIN GLOBAL LIMITED** qualifies as active (Closing Date in future). No entries marked TBA or undated.
+
+Plain text list with SGX source URL:
+
+KIN GLOBAL LIMITED – Closing Date: April 21 2026 (future relative to April 18 2026).  
+SGX source: IPO Prospectus page for Kin Global Limited ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3443?utm_source=openai)).
+
+(End of report.)
