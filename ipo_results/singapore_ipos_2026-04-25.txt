@@ -1,0 +1,37 @@
+Run timestamp: 2026-04-25 02:01:36 +08
+
+BOT CHECK: Current SGX connection status: SUCCESSFUL: Connected to SGX.
+
+---
+
+SECTION A (Last 7 Days: from 2026‑04‑18 to 2026‑04‑25)
+
+I conducted a web search for newly filed or announced IPOs and ETFs on SGX within the past week, but as of today, **no new filings or announcements** appear to have been made on SGX in the last 7 days. The recent activity captured in sources primarily highlights quarterly ETF trends and past 2025 listings, with no new IPOs or ETF filings reported for April 18–25, 2026. ([businesstimes.com.sg](https://www.businesstimes.com.sg/companies-markets/etfs-traded-sgx-hit-record-over-s19-billion-aum-117-q1-turnover-surge/?utm_source=openai))
+
+Therefore, **Section A** yields no newly filed or announced IPOs or ETFs for the past 7 days.
+
+---
+
+SECTION B (Active Only – from SGX IPO Prospectus page, filtered by closing date ≥ 2026‑04‑25):
+
+I attempted to locate SGX’s "IPO Prospectus" page for active IPO listings; however, the only accessible document is an archival example from 2000, which is clearly not relevant to current listings. ([investorrelations.sgx.com](https://investorrelations.sgx.com/sgx-ipo-prospectus-2000?utm_source=openai))
+
+Given that no updated SGX IPO prospectus listings were available via the sources, I am unable to retrieve specific entries or closing dates. Thus, I cannot produce a filtered list (with closing dates today, future, or TBA) as required for Section B.
+
+---
+
+Summary in plain text:
+
+SECTION A (Last 7 Days):
+- No newly filed or announced IPOs or ETFs detected between 2026‑04‑18 and 2026‑04‑25.
+
+SECTION B (Active Only):
+- Unable to access current SGX IPO Prospectus entries to apply closing-date filtering. No listings could be verified with closing dates ≥ 2026‑04‑25.
+
+SGX source URLs attempted:
+- SGX IPO Prospectus archival page – shows only historical example from 2000 ([investorrelations.sgx.com](https://investorrelations.sgx.com/sgx-ipo-prospectus-2000?utm_source=openai))
+
+---
+
+Recommendations:
+If you have access to the SGX official website (e.g. via investorrelations.sgx.com or SGX Securities announcements page), you may directly consult the IPO Prospectus section for up-to-date listings and their closing dates. Let me know if you can provide URLs or files from that page—I’d be happy to apply the strict filtering criteria you specified.
