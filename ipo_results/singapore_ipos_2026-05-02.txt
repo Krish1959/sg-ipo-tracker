@@ -1,0 +1,62 @@
+Run timestamp: 2026-05-02 02:01:14 +08
+
+BOT CHECK:  
+SGX connection status: SUCCESSFUL – Connected to SGX.
+
+---
+
+SECTION A (Last 7 Days – from 2026‑04‑25 to 2026‑05‑02):  
+I found no newly filed or announced IPOs or ETFs on SGX between 25 April 2026 and 2 May 2026 based on available SGX corporate announcements and prospectus listings.
+
+- No General Announcement or IPO Prospectus filings have publication dates within that 7‑day window.
+- The most recent ETF listing I could locate is the LionGlobal Singapore Physical Gold ETF, which was listed on 26 March 2026 ([links.sgx.com](https://links.sgx.com/1.0.0/corporate-announcements/CFOH7JISY3HOFNEE/?utm_source=openai)).  
+- No new IPO announcements or filings (prospectus or closing dates) appear to be published in that recent period.
+
+Therefore, **no newly filed or announced IPOs or ETFs** were identified in the past seven days.
+
+---
+
+SECTION B (Active Only – from SGX IPO Prospectus page, apply date filter):  
+I reviewed the IPO Prospectus page entries and applied the logic: exclude those whose Closing Date is before 2026‑05‑02.
+
+Below are the remaining entries with Closing Dates on or after 2 May 2026, or marked as future / TBA — as of today, **2 May 2026**:
+
+1. **KIN GLOBAL LIMITED**  
+   - Closing Date: 21 April 2026 – before today → **EXCLUDE** ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3443?utm_source=openai)).
+
+2. **THE ASSEMBLY PLACE HOLDINGS LTD.**  
+   - Closing Date: 21 January 2026 – before today → **EXCLUDE** ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3440?utm_source=openai)).
+
+3. **INFINITY DEVELOPMENT HOLDINGS**  
+   - Closing Date: 1 December 2025 – before today → **EXCLUDE** ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3432?utm_source=openai)).
+
+4. **SOON HOCK ENTERPRISE HLDG LTD**  
+   - Closing Date: 14 October 2025 – before today → **EXCLUDE** ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3429?utm_source=openai)).
+
+5. **COLIWOO HOLDINGS LIMITED**  
+   - Closing Date: 4 November 2025 – before today → **EXCLUDE** ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3430/d85a6a669c77a76865ba421550b56b57f38989dd59a56a59dcf595a669b41a0c?utm_source=openai)).
+
+6. **INFO‑TECH SYSTEMS LTD.**  
+   - Closing Date: 2 July 2025 – before today → **EXCLUDE** ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3413?utm_source=openai)).
+
+7. **SPDR JPM SAUDIARABIA AGGBD ACC** (UCITS ETF prospectus)  
+   - No explicit Closing Date listed (likely future or TBA) → **INCLUDE**. ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3422?utm_source=openai)).
+
+Therefore, the only entry still **active** (i.e., Closing Date ≥ 2026‑05‑02 or not specified) is:
+
+- SPDR JPM SAUDIARABIA AGGBD ACC – prospectus available but closing date not provided (presumably future or TBA)  
+  Source: SGX IPO Prospectus page ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3422?utm_source=openai)).
+
+---
+
+Summary (Plain Text):
+
+SECTION A (Last 7 Days):  
+No newly filed or announced IPOs or ETFs on SGX from 2026‑04‑25 to 2026‑05‑02.
+
+SECTION B (Active Only from IPO Prospectus page, closing date filter applied):  
+Only one entry remains active:
+
+- SPDR JPM SAUDIARABIA AGGBD ACC — prospectus available, no closing date specified (TBA/future).
+
+SGX IPO Prospectus page URL for reference: see individual entries (e.g., SPDR JPM SAUDIARABIA AGGBD ACC link).
