@@ -1,0 +1,57 @@
+Run timestamp: 2026-05-09 02:00:57 +08
+
+BOT CHECK:
+Status of SGX connection: SUCCESSFUL: Connected to SGX.
+
+---
+
+SECTION A (Last 7 Days: 2026‑05‑09 back to 7 days ago)
+
+After reviewing SGX announcements and listings, **there were no newly filed or announced IPOs or ETFs within the 7‑day window ending on 2026‑05‑09**. The most recent listing events are:
+
+- **LionGlobal Singapore Physical Gold ETF**, listed on 26 March 2026 ([hubbis.com](https://hubbis.com/news/lion-global-investors-to-launch-singapore-s-first-physical-gold-etf-on-sgx?utm_source=openai)).
+- **Toku Ltd. IPO (Catalist)**: closing date 20 January 2026 ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3439?utm_source=openai)).
+- **UI Boustead REIT IPO (Mainboard REIT)**: public offer closed 10 March 2026 ([straitstimes.com](https://www.straitstimes.com/business/companies-markets/ui-boustead-reit-launches-singapores-largest-ipo-in-2026-to-raise-973-6-million?utm_source=openai)).
+
+No new IPOs or ETFs were filed or announced between 2026‑05‑02 and 2026‑05‑09.
+
+---
+
+SECTION B (Active Only: SGX IPO Prospectus page; include entries with Closing Date ≥ 2026‑05‑09 or 'TBA')
+
+From the SGX IPO Prospectus listings, applying your filter logic (exclude entries whose Closing Date is earlier than 2026‑05‑09), the following entries remain active:
+
+1. **KIN GLOBAL LIMITED**  
+   - Closing Date: **Apr 21 2026** → *Excluded* (before 2026‑05‑09) ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3443?utm_source=openai)).
+
+2. **THE ASSEMBLY PLACE HOLDINGS LTD.**  
+   - Closing Date: **Jan 21 2026** → *Excluded* (before 2026‑05‑09) ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3440?utm_source=openai)).
+
+Entries with closing dates in the past (MetaOptics, Infinity Development, UltraGreen.ai, Leong Guan, Soon Hock, Lum Chang, etc.) are similarly **excluded** as they closed before 2026‑05‑09 ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3423?utm_source=openai)).
+
+**Conclusion for Section B**: There are **no active IPOs** on the SGX IPO Prospectus page meeting the criteria (Closing Date ≥ 2026‑05‑09 or TBA). All known entries have already closed.
+
+---
+
+Plain Text Summary:
+
+BOT CHECK:
+SUCCESSFUL: Connected to SGX.
+
+SECTION A (Last 7 Days):
+No newly filed or announced IPOs or ETFs from 2026‑05‑02 to 2026‑05‑09. The most recent listings (outside that window) include:
+- LionGlobal Singapore Physical Gold ETF – listed 26 Mar 2026.
+- Toku Ltd. IPO (Catalist) – closed 20 Jan 2026.
+- UI Boustead REIT IPO – closed 10 Mar 2026.
+
+SECTION B (Active Only – SGX IPO Prospectus, Closing Date ≥ 2026‑05‑09 or TBA):
+No entries qualify. All IPO prospectus listings have closing dates earlier than 2026‑05‑09.
+
+SGX source URLs:
+- LionGlobal Singapore Physical Gold ETF listing announcement: https://links.sgx.com/1.0.0/corporate-announcements/CFOH7JISY3HOFNEE/
+- KIN GLOBAL LIMITED prospectus: https://links.sgx.com/1.0.0/ipo-prospectus/3443
+- THE ASSEMBLY PLACE HOLDINGS LTD. prospectus: https://links.sgx.com/1.0.0/ipo-prospectus/3440
+- Toku Ltd. prospectus: https://links.sgx.com/1.0.0/ipo-prospectus/3439
+- UI Boustead REIT balloting press release: https://links.sgx.com/1.0.0/corporate-announcements/4OHP0CPYZUJGUXDF/
+
+If you’d like updates on prospectuses marked “TBA” or future expected filings, I can monitor SGX further.
