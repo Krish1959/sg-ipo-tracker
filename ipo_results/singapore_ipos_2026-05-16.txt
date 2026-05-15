@@ -1,0 +1,57 @@
+Run timestamp: 2026-05-16 02:00:57 +08
+
+BOT CHECK: SGX connection status: SUCCESSFUL: Connected to SGX.
+
+SECTION A (Last 7 Days: 2026‑05‑16 back to 7 days ago)
+
+I searched for newly filed or announced IPOs or ETFs on SGX between 2026‑05‑09 and 2026‑05‑16. There were **no new IPO or ETF filings or announcements** within that date range:
+
+- The most recent ETF listed was the **LionGlobal Singapore Physical Gold ETF**, which launched on 26 March 2026 ([hubbis.com](https://www.hubbis.com/news/lion-global-investors-to-launch-singapore-s-first-physical-gold-etf-on-sgx?utm_source=openai)).  
+- In Q1 2026, SGX welcomed three new ETFs (including CSOP CSAM CSI A500 Index ETF, UOBAM Ping An FTSE ASEAN Dividend Index ETF, and the LionGlobal Gold ETF) ([businesstimes.com.sg](https://www.businesstimes.com.sg/companies-markets/etfs-traded-sgx-hit-record-over-s19-billion-aum-117-q1-turnover-surge?utm_source=openai)).  
+- No new IPO or ETF notices appear in the period 2026‑05‑09 to 2026‑05‑16.
+
+Therefore, **no new IPO or ETF filings or announcements have occurred in the past 7 days**.
+
+SECTION B (Active Only: from SGX IPO Prospectus page with Closing Date filter)
+
+From the SGX IPO prospectus listings I located, here are the IPO/ETF entries with their Closing Dates, and filtering out those whose Closing Dates are before 2026‑05‑16:
+
+1. **CSOP CSAM CSI A500 Index ETF**  
+   - Closing Date: 14 January 2026 — Excluded (closed) ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3438?utm_source=openai)).
+
+2. **KIN GLOBAL LIMITED (IPO)**  
+   - Closing Date: 21 April 2026 — Excluded (closed) ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3443?utm_source=openai)).
+
+3. **LION SG PHYSICAL GOLD ETF**  
+   - Closing Date: 20 March 2026 — Excluded (closed) ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3441?utm_source=openai)).
+
+4. **TOKU LTD. (IPO)**  
+   - Closing Date: 20 January 2026 — Excluded (closed) ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3439?utm_source=openai)).
+
+5. **ULTRAGREEN.AI LIMITED (IPO)**  
+   - Closing Date: 1 December 2025 — Excluded (closed) ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3433?utm_source=openai)).
+
+6. **AMOVA SINGAPORE STI ETF S$A (IPO prospectus)**  
+   - Last updated: 12 September 2025 — no Closing Date visible; likely closed. Exclude ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3425?utm_source=openai)).
+
+None of these entries have a Closing Date of 16 May 2026 or later, nor are marked as TBA/To Be Announced.
+
+**Conclusion – Section B: Active Only**
+There are **no active IPO or ETF listings** on the SGX IPO Prospectus page with Closing Dates on or after 2026‑05‑16, or marked as “TBA”.
+
+---
+
+To summarize in plain text with SGX source URLs:
+
+SECTION A: No new IPO/ETF filings or announcements between **2026‑05‑09 and 2026‑05‑16**, based on publicly available information (most recent being LionGlobal Gold ETF on 26 March 2026; Q1 listings included CSOP CSAM CSI A500 Index ETF, UOBAM Ping An FTSE Asean Dividend Index ETF, and LionGlobal Gold ETF).
+
+SECTION B: From SGX IPO Prospectus page:
+
+- CSOP CSAM CSI A500 Index ETF – Closing Date: 14 Jan 2026 – **Excluded**  
+- KIN GLOBAL LIMITED – Closing Date: 21 Apr 2026 – **Excluded**  
+- LION SG PHYSICAL GOLD ETF – Closing Date: 20 Mar 2026 – **Excluded**  
+- TOKU LTD. – Closing Date: 20 Jan 2026 – **Excluded**  
+- ULTRAGREEN.AI LIMITED – Closing Date: 1 Dec 2025 – **Excluded**  
+- AMOVA SINGAPORE STI ETF S$A – last updated Sep 2025 (no closing date but outdated) – **Excluded**
+
+**No active entries** remain with Closing Date ≥ 2026‑05‑16 or marked TBA.
