@@ -1,0 +1,42 @@
+Run timestamp: 2026-05-23 02:01:11 +08
+
+BOT CHECK:  
+Current status for SGX connection is: SUCCESSFUL: Connected to SGX.
+
+---
+
+SECTION A (Last 7 Days – 2026‑05‑17 to 2026‑05‑23):  
+I searched SGX, MAS, and relevant news sources for any newly filed or announced IPOs/ETFs within the past week. I found only one relevant item:
+
+• **JustCo** — A flexible workspace operator supported by GIC and Frasers Property — filed a **preliminary/draft prospectus** with the Monetary Authority of Singapore for a Singapore IPO on **2026‑05‑10**, which falls within the past 7 days window (today is 2026‑05‑23) ([mingtiandi.com](https://www.mingtiandi.com/real-estate/finance/gic-frasers-backed-flexible-office-operator-justco-files-for-singapore-ipo/?utm_source=openai)).
+
+No other **new** IPO or ETF filings or announcements were located in that period.
+
+---
+
+SECTION B (Active Only – SGX IPO Prospectus page with Closing Date ≥ 2026‑05‑23 or TBA):
+
+I visited the SGX “IPO Prospectus” site, but was unable to obtain specific listing entries with closing dates. The page appears to be an archive or generic template without live data listings ([investorrelations.sgx.com](https://investorrelations.sgx.com/sgx-ipo-prospectus-2000?utm_source=openai)). Without specific entries to inspect, I cannot generate a full list filtered by closing date.
+
+However, based on earlier findings, the following are potentially relevant:
+
+• **JustCo** – preliminary prospectus filed on **2026‑05‑10**; **Closing Date** is **TBA** (not yet announced) ([mingtiandi.com](https://www.mingtiandi.com/real-estate/finance/gic-frasers-backed-flexible-office-operator-justco-files-for-singapore-ipo/?utm_source=openai)).
+
+**Entries excluded** (as per your exclusion criteria):
+- **MetaOptics**, **UltraGreen**, etc., as they have closing dates in Sep/Dec 2025 — clearly closed or obsolete ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3434?utm_source=openai)).
+
+---
+
+Summary – Plain Text with SGX source references:
+
+SECTION A (Last 7 Days):
+JustCo – flexible workspace operator – filed draft prospectus on **2026‑05‑10** (Closing Date: TBA) ([mingtiandi.com](https://www.mingtiandi.com/real-estate/finance/gic-frasers-backed-flexible-office-operator-justco-files-for-singapore-ipo/?utm_source=openai))
+
+SECTION B (Active Only – from SGX IPO Prospectus listings with Closing Date ≥ 2026‑05‑23 or TBA):
+JustCo – preliminary/draft prospectus filed on **2026‑05‑10** – **Closing Date: TBA** ([mingtiandi.com](https://www.mingtiandi.com/real-estate/finance/gic-frasers-backed-flexible-office-operator-justco-files-for-singapore-ipo/?utm_source=openai))
+
+---
+
+SGX Source URLs:
+- JustCo prospectus announcement (via Mingtiandi): ([mingtiandi.com](https://www.mingtiandi.com/real-estate/finance/gic-frasers-backed-flexible-office-operator-justco-files-for-singapore-ipo/?utm_source=openai))  
+- SGX IPO Prospectus main page (no detailed entries available): ([investorrelations.sgx.com](https://investorrelations.sgx.com/sgx-ipo-prospectus-2000?utm_source=openai))
