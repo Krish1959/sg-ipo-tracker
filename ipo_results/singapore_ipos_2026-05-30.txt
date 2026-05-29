@@ -1,0 +1,20 @@
+Run timestamp: 2026-05-30 02:00:59 +08
+
+BOT CHECK:  
+SGX connection status: SUCCESSFUL.
+
+SECTION A (Last 7 Days: from 2026‑05‑30 back to 2026‑05‑23)  
+Search results do not show any newly filed or announced IPOs or ETFs within this period. The only relevant listing was **JustCo Holdings**' IPO, which debuted on **22 May 2026**, just outside the 7‑day window ([sgx.com](https://www.sgx.com/research-education/market-updates/20260522-justco-holdings-leading-flexible-workspace-platform?utm_source=openai)). No other IPOs or ETFs have been announced or filed in the past seven days per SGX’s updates.
+
+SECTION B (Active Only – from SGX IPO Prospectus page, filter Closing Date ≥ 2026‑05‑30 or TBA)  
+The SGX IPO Prospectus page currently lists only historical entries, all with closing dates well before 2026‑05‑30 (e.g., July 2025, April 2025, etc.) ([sgx.com](https://www.sgx.com/securities/ipo-prospectus?utm_source=openai)). There are **no current entries** with closing dates of **today (2026‑05‑30)**, in the **future**, or marked as **TBA/To be announced**. Therefore, under the strict filtering criteria (Closing Date < 2026‑05‑30 excluded), **no active entries** are available.
+
+Summary:  
+SECTION A: None in last 7 days (2026‑05‑23 to 2026‑05‑30).  
+SECTION B: No active entries on SGX IPO Prospectus page with Closing Date ≥ 2026‑05‑30 or TBA.
+
+---  
+SGX IPO Prospectus page URL:  
+https://www.sgx.com/securities/ipo-prospectus
+
+Please let me know if you'd like me to monitor upcoming filings or expand the date range.
