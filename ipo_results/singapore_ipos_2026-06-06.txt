@@ -1,0 +1,37 @@
+Run timestamp: 2026-06-06 02:01:02 +08
+
+BOT CHECK: SGX connection status: **SUCCESSFUL: Connected to SGX.**
+
+SECTION A (Last 7 Days: 2026‑05‑30 to 2026‑06‑06)
+
+I searched for newly filed or announced IPOs/ETFs on SGX within the last 7 days. The most recent related listing activity I found:
+
+- **JustCo Holdings – Leading Flexible Workspace Platform Operator – Debuts on SGX**  
+  Published 22 May 2026 ([sgx.com](https://www.sgx.com/research-education/market-updates/20260522-justco-holdings-leading-flexible-workspace-platform?utm_source=openai))  
+  Although within recent weeks, it falls just outside the 7-day window (i.e., more than 7 days before 6 June 2026). There were no IPOs or ETFs announced or filed between 30 May and 6 June 2026 according to SGX "Market Updates."
+
+Therefore:
+
+- **No new IPOs or ETFs were filed or announced on SGX between 30 May and 6 June 2026.**
+
+SECTION B (Active Only – SGX IPO Prospectus Page, applying Closing Date filter)
+
+Next, I reviewed the official SGX "IPO Prospectus" page. The entries listed there all have **Closing Dates well in the past**, with none on or after today's date (2026‑06‑06) or marked as TBA:
+
+- AMOVAEFUND CHINEXT – Closing Date: 15 Jul 2025  
+- CHINA MEDICAL SYSTEM HLDGS LTD – Closing Date: 02 Jul 2025  
+- Others (DBXT iBoxx Singapore ETF, VINS Holdings Ltd, etc.) date back to 2025 and earlier ([sgx.com](https://www.sgx.com/securities/ipo-prospectus?utm_source=openai)).
+
+Thus, when applying the filter logic (“Closing Date < 2026‑06‑06 → EXCLUDE”), **no entries remain**:
+
+- **There are no active IPO prospectus entries with Closing Dates on or after 6 June 2026 or marked as 'TBA' on the SGX IPO Prospectus page.**
+
+SECTION A SUMMARY:
+- No new IPO or ETF filings/announcements on SGX in the past 7 days (30 May–6 June 2026).
+
+SECTION B SUMMARY (Active Only):
+- No active IPO prospectus entries with closing dates today or in the future; none marked as TBA.
+
+Sources:
+- SGX "Market Updates" (JustCo, 22 May 2026) ([sgx.com](https://www.sgx.com/research-education/market-updates/20260522-justco-holdings-leading-flexible-workspace-platform?utm_source=openai))  
+- SGX IPO Prospectus page listing closing dates all before 2026‑06‑06 ([sgx.com](https://www.sgx.com/securities/ipo-prospectus?utm_source=openai))
