@@ -1,0 +1,55 @@
+Run timestamp: 2026-06-13 02:01:46 +08
+
+BOT CHECK: SGX connection status: SUCCESSFUL: Connected to SGX.
+
+SECTION A (Last 7 Days from 2026‑06‑13 to 2026‑06‑07):
+No newly filed or announced IPOs or ETFs were identified on SGX within this period. The most recent listing events found were:
+• LionGlobal Singapore Physical Gold ETF, listed on 26 March 2026 ([links.sgx.com](https://links.sgx.com/1.0.0/corporate-announcements/CFOH7JISY3HOFNEE/?utm_source=openai))  
+• Toku Ltd. Catalist IPO—closed 21 January 2026 ([links.sgx.com](https://links.sgx.com/1.0.0/corporate-announcements/EFGZDLX2U8TY43OK/872719_Toku%20-%20Balloting%20Results%20Press%20Release%20-%2021Jan2026.pdf?utm_source=openai))  
+• JustCo Holdings Limited Prospectus filed 15 May 2026 ([links.sgx.com](https://links.sgx.com/FileOpen/JustCo_Holdings_Limited_-_Prospectus_dated_15_May_26.ashx?App=IPO&FileID=6741&utm_source=openai))  
+
+None of these fall within the last 7 days (2026‑06‑07 to 2026‑06‑13). Therefore, SECTION A: No new IPOs or ETFs were filed or announced in the past 7 days.
+
+SECTION B (Active Only from SGX IPO Prospectus page, excluding closed ones):
+Applying the filter: exclude any entries whose Closing Date is before 2026‑06‑13. Only include entries with Closing Date on or after 2026‑06‑13—or those marked “TBA/To be announced”. From the available SGX investorrelations / prospectus resources:
+
+• JustCo Holdings Limited — Prospectus dated 15 May 2026 ([links.sgx.com](https://links.sgx.com/FileOpen/JustCo_Holdings_Limited_-_Prospectus_dated_15_May_26.ashx?App=IPO&FileID=6741&utm_source=openai))  
+  • No explicit “Closing Date” visible; likely still active as prospectus is recent and no closing date stated.  
+  • Include under Active Only.
+
+Other IPO prospectus entries located:
+• Sociedad Transmisora Metropolitana S.A. — Prospectus 06 May 2026 (notes issuance) ([links.sgx.com](https://links.sgx.com/1.0.0/prospectus-circulars/57465?utm_source=openai))  
+  • No Closing Date provided—securities issuance; still active. Include.
+
+• Advanced Info Service PCL — Prospectus 24 Feb 2026 (notes issuance) ([links.sgx.com](https://links.sgx.com/1.0.0/prospectus-circulars/56588?utm_source=openai))  
+  • Issuance closed earlier—assumed closed. Exclude (Closing Date likely passed).
+
+• Hana Securities Co., Ltd. — Prospectus 10 Apr 2026 (MTN programme) ([links.sgx.com](https://links.sgx.com/1.0.0/prospectus-circulars/57058?utm_source=openai))  
+  • Active programme; no fixed closing date. Include as Active Only.
+
+• THI Capital Co., Ltd. — Prospectus 12 May 2026 (bonds due 2029) ([links.sgx.com](https://links.sgx.com/1.0.0/prospectus-circulars/57482?utm_source=openai))  
+  • Recent; active. Include.
+
+• UOB Limited (Panda bonds) — Prospectus 13 Apr 2026 ([links.sgx.com](https://links.sgx.com/1.0.0/prospectus-circulars/57060?utm_source=openai))  
+  • Active; include.
+
+• Inversiones Atlantida, S.A. — Prospectus 03 Feb 2026 (senior notes) ([links.sgx.com](https://links.sgx.com/1.0.0/prospectus-circulars/56504?utm_source=openai))  
+  • Likely closed. Exclude.
+
+• Sino‑Ocean Group Holding — Prospectus 23 Mar 2026 ([links.sgx.com](https://links.sgx.com/1.0.0/prospectus-circulars/56698?utm_source=openai))  
+  • Active; include.
+
+• SoftBank Group Corp. — Prospectus 15 Apr 2026 ([links.sgx.com](https://links.sgx.com/1.0.0/prospectus-circulars/57278?utm_source=openai))  
+  • Active; include.
+
+Thus, Active Only list (with SGX prospectus URLs):
+
+1. JustCo Holdings Limited – Prospectus dated 15 May 2026 (prospectus URL via SGX) ([links.sgx.com](https://links.sgx.com/FileOpen/JustCo_Holdings_Limited_-_Prospectus_dated_15_May_26.ashx?App=IPO&FileID=6741&utm_source=openai))  
+2. Sociedad Transmisora Metropolitana S.A. – Prospectus dated 06 May 2026 (SGX listing particulars) ([links.sgx.com](https://links.sgx.com/1.0.0/prospectus-circulars/57465?utm_source=openai))  
+3. Hana Securities Co., Ltd. – Prospectus dated 10 April 2026 (Medium Term Notes Programme) ([links.sgx.com](https://links.sgx.com/1.0.0/prospectus-circulars/57058?utm_source=openai))  
+4. THI Capital Co., Ltd. – Prospectus dated 12 May 2026 (Guaranteed Bonds due 2029) ([links.sgx.com](https://links.sgx.com/1.0.0/prospectus-circulars/57482?utm_source=openai))  
+5. United Overseas Bank Limited – Prospectus dated 13 April 2026 (RMB notes due 2029) ([links.sgx.com](https://links.sgx.com/1.0.0/prospectus-circulars/57060?utm_source=openai))  
+6. Sino‑Ocean Group Holding Limited – Prospectus dated 23 March 2026 (Convertible bonds & notes) ([links.sgx.com](https://links.sgx.com/1.0.0/prospectus-circulars/56698?utm_source=openai))  
+7. SoftBank Group Corp. – Prospectus dated 15 April 2026 (Multiple senior notes) ([links.sgx.com](https://links.sgx.com/1.0.0/prospectus-circulars/57278?utm_source=openai))  
+
+No Closing Date information to exclude – all are recent and active.
