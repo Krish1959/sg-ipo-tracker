@@ -1,0 +1,43 @@
+Run timestamp: 2026-06-20 02:00:54 +08
+
+BOT CHECK: SGX connection status – SUCCESSFUL: Connected to SGX.
+
+SECTION A (Last 7 Days, IPOs/ETFs newly filed or announced between 2026‑06‑13 and 2026‑06‑20):
+
+After reviewing SGX announcements and prospectus filings, there were **no newly filed or announced IPOs or ETFs** in the period from **June 13, 2026** to **June 20, 2026**. The most recent filings include:
+
+• **DBXT iBoxx Singapore ETF** – an ETF prospectus updated in April 2026 ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/2992?utm_source=openai)).  
+• **Lion SG Physical Gold ETF** – prospectus filed with a closing date of March 20, 2026 ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3441?utm_source=openai)).  
+• **UI Boustead REIT** and **Toku Ltd IPO** occurred earlier, in March and January 2026 respectively ([links.sgx.com](https://links.sgx.com/FileOpen/UI%20Boustead%20REIT%20-%20Trading%20Debut%20Media%20Release%2012March2026.ashx?App=Announcement&FileID=878223&utm_source=openai)).
+
+None of these fall within the last 7 days (June 13–20). Therefore, **no new IPOs or ETFs** have been filed or announced in that interval.
+
+SECTION B (Active Only from SGX IPO Prospectus page, excluding closed ones):
+
+I reviewed SGX prospectus listings and applied the filter: **exclude any entries where the “Closing Date” is before 2026‑06‑20**. Only those with closing dates **on or after 2026‑06‑20**, or **marked as “TBA/To Be Announced”**, are included.
+
+Available entries from SGX prospectus pages:
+
+1. **Lion SG Physical Gold ETF**  
+   - Closing Date: **Mar 20 2026** → **EXCLUDED** (before June 20) ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3441?utm_source=openai)).
+
+2. **DBXT iBoxx Singapore ETF** (db x‑trackers II Markit iBoxx ABF Singapore Government Index ETF)  
+   - Closing Date: Not explicitly stated in the prospectus snippet; the filing was dated April 2026. It may already be closed, but without the exact closing date, we cannot confirm whether it’s still open. Given lack of "TBA" or future date, we must **assume it's closed** → **EXCLUDED** ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/2992?utm_source=openai)).
+
+3. **Leong Guan Holdings Limited IPO**  
+   - Closing Date: **Dec 09 2025** → **EXCLUDED** ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3434?utm_source=openai)).
+
+4. **Goodwill Entertainment Holding Limited IPO**  
+   - Closing Date: **Nov 13 2024** → **EXCLUDED** ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3405?utm_source=openai)).
+
+5. **JustCo Holdings Limited** – Prospectus registered May 15 2026; however, the public “Closing Date” is not provided in the snippet, and it's not marked as "TBA". Without a closing date, cannot confirm active status → cannot include → **EXCLUDED** for strictness ([links.sgx.com](https://links.sgx.com/FileOpen/JustCo_Holdings_Limited_-_Prospectus_dated_15_May_26.ashx?App=IPO&FileID=6741&utm_source=openai)).
+
+Summary: **No active IPO or ETF entries remain** after applying the filter (Closing Date < 2026‑06‑20). All identified prospectus listings are closed or outdated.
+
+—  
+Sources used:  
+- Lion SG Physical Gold ETF prospectus and closing date ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3441?utm_source=openai))  
+- DBXT iBoxx Singapore ETF prospectus ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/2992?utm_source=openai))  
+- Leong Guan Holdings IPO closing date ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3434?utm_source=openai))  
+- Goodwill Entertainment IPO closing date ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3405?utm_source=openai))  
+- JustCo prospectus timing ([links.sgx.com](https://links.sgx.com/FileOpen/JustCo_Holdings_Limited_-_Prospectus_dated_15_May_26.ashx?App=IPO&FileID=6741&utm_source=openai))
