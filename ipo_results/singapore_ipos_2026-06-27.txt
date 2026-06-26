@@ -1,0 +1,59 @@
+Run timestamp: 2026-06-27 02:01:10 +08
+
+BOT CHECK:  
+SGX connection status: SUCCESSFUL – Connected to SGX.
+
+---
+
+SECTION A (Last 7 Days): Newly filed/announced IPOs or ETFs on SGX between 2026‑06‑20 and 2026‑06‑27
+
+After checking SGX announcements and IPO prospectus listings, there were **no new IPO or ETF filings or announcements** on the SGX within the last 7 days (i.e., from **June 20, 2026 to June 27, 2026**). The most recent relevant SGX IPO-related content includes:
+
+- The **JustCo Holdings Limited IPO**, which listed on **May 22, 2026** ([links.sgx.com](https://links.sgx.com/1.0.0/corporate-announcements/GX746FVWU8FXT8AR/c173d061a1d0ba1af5400b6e4ceb1045f2bf2d520205b845840a2834f3c56f8c?utm_source=openai)).
+- No other IPOs or ETF launch prospectuses appeared in the SGX filings in late June 2026.
+
+Therefore, **Section A has no entries** for the specified timeframe.
+
+---
+
+SECTION B (Active Only): SGX IPO Prospectus listings with Closing Date ≥ 2026‑06‑27, or marked as TBA
+
+Based on SGX IPO Prospectus page listings and filtering by Closing Date, here are the details:
+
+1. **KIN GLOBAL LIMITED**  
+   - Closing Date: **April 21, 2026**, which is **< June 27, 2026** → **EXCLUDE** ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3443?utm_source=openai)).
+
+2. **UI BOUSTEAD REIT**  
+   - Closing Date: **March 10, 2026**, which is **< June 27, 2026** → **EXCLUDE** ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3442?utm_source=openai)).
+
+3. **THE ASSEMBLY PLACE HOLDINGS LTD.**  
+   - Closing Date: **January 21, 2026**, which is **< June 27, 2026** → **EXCLUDE** ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3440?utm_source=openai)).
+
+4. **CSOP CSAM CSI A500 INDEX ETF**  
+   - Closing Date: **January 14, 2026**, which is **< June 27, 2026** → **EXCLUDE** ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3438?utm_source=openai)).
+
+5. **TOKU LTD.**  
+   - Closing Date: **January 20, 2026**, which is **< June 27, 2026** → **EXCLUDE** ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3439?utm_source=openai)).
+
+6. **Other older IPOs (such as MetaOptics, UltraGreen, Info‑Tech Systems, Lum Chang Creations, Dezign Format)** all have Closing Dates in **2025**, therefore **EXCLUDE** as well ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3423?utm_source=openai)).
+
+**Conclusion**: None of the IPO entries currently listed on the SGX IPO Prospectus page have a Closing Date on or after **June 27, 2026**. No listings are marked as **TBA/To Be Announced** either.
+
+Thus, **Section B results in no active or upcoming listings** meeting the specified criteria as of today, **June 27, 2026**.
+
+---
+
+Plain‑text summary with SGX source URLs:
+
+SECTION A – Last 7 Days  
+- No newly filed or announced IPOs or ETFs on SGX from **2026‑06‑20 to 2026‑06‑27**.
+
+SECTION B – Active Only (Closing Date ≥ 2026‑06‑27 or TBA)  
+- None found. All current IPO prospectus entries (e.g., KIN GLOBAL LIMITED, UI BOUSTEAD REIT, THE ASSEMBLY PLACE HOLDINGS LTD., CSOP CSAM CSI A500 INDEX ETF, TOKU LTD., plus older ones) have Closing Dates **before** 2026‑06‑27 and are therefore excluded.
+
+SGX source URLs:  
+KIN GLOBAL LIMITED IPO Prospectus: https://links.sgx.com/1.0.0/ipo-prospectus/3443  
+UI BOUSTEAD REIT IPO Prospectus: https://links.sgx.com/1.0.0/ipo-prospectus/3442  
+THE ASSEMBLY PLACE HOLDINGS LTD. IPO Prospectus: https://links.sgx.com/1.0.0/ipo-prospectus/3440  
+CSOP CSAM CSI A500 INDEX ETF IPO Prospectus: https://links.sgx.com/1.0.0/ipo-prospectus/3438  
+TOKU LTD. IPO Prospectus: https://links.sgx.com/1.0.0/ipo-prospectus/3439
