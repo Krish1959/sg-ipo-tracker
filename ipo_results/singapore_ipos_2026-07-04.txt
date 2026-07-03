@@ -1,0 +1,41 @@
+Run timestamp: 2026-07-04 02:01:08 +08
+
+BOT CHECK: SGX connection status is: SUCCESSFUL: Connected to SGX.
+
+SECTION A (Last 7 Days – 2026‑06‑27 to 2026‑07‑04)
+
+I was unable to identify any newly filed or announced IPOs or ETFs on the Singapore Exchange (SGX) between June 27, 2026, and July 4, 2026. No new announcements or prospectus listings were published during that date range based on searches of SGX’s site and media updates.  
+If there are specific companies or fund managers you’d like me to check for recent activity, I’d be glad to investigate further.
+
+SECTION B (Active Only – SGX IPO Prospectus Listings with Closing Date on or after 2026‑07‑04 or TBA)
+
+From the SGX IPO Prospectus page, here are relevant listings, applying the filter to exclude those whose ‘Closing Date’ is before 2026‑07‑04:
+
+1. Toku Ltd.  
+   • Closing Date: January 20, 2026 (already passed).  
+   • EXCLUDED. ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3439?utm_source=openai))
+
+2. UOBAM PA FTSE ASEAN DIV ETF  
+   • Closing Date: January 26, 2026 (already passed).  
+   • EXCLUDED. ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3436?utm_source=openai))
+
+3. China Medical System Holdings Ltd.  
+   • Closing Date: Not specified / blank.  
+   • Classification: Closing Date unknown—could be considered TBA.  
+   • INCLUDED, under “TBA/To be announced.” ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3414?utm_source=openai))
+
+4. UI Boustead REIT (REIT IPO)  
+   • Prospectus includes a timetable:  
+     – Closing date for Public Offer: 10 March 2026 at 12:00 p.m.  
+   • That closing date is before today (2026‑07‑04).  
+   • EXCLUDED. ([links.sgx.com](https://links.sgx.com/FileOpen/UI_Boustead_REIT_Prospectus_%285_March_2026%29.ashx?App=IPO&FileID=6738&utm_source=openai))
+
+No other IPO prospectus entries with future or TBA closing dates were identifiable in the SGX IPO Prospectus listings.
+
+SUMMARY – SECTION B (Active Only)
+
+- China Medical System Holdings Ltd. – Closing Date: TBA (not specified) — INCLUDED. (Link to prospectus page, as per SGX: see entry above.)
+
+All others are excluded as their closing dates are clearly before 2026‑07‑04.
+
+If you'd like more details (e.g., issuers with upcoming offerings not yet posted, or cross-check with Global Listing Board activity), please let me know.
