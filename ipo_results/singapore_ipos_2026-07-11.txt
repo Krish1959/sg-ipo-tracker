@@ -1,0 +1,55 @@
+Run timestamp: 2026-07-11 02:01:12 +08
+
+SGX connection status: SUCCESSFUL: Connected to SGX.
+
+SECTION A (Last 7 Days: 2026-07-11 back through 2026‑07‑04)
+
+After reviewing SGX and related sources, **no newly filed or announced IPOs or ETFs** were identified within the past 7 days (i.e., between **4 July 2026 and 11 July 2026**). Recent announcements include:
+
+- **iShares Southeast Asia Trust – Change of Terms / Prospectus** issued on **11 June 2026** ([links.sgx.com](https://links.sgx.com/1.0.0/corporate-announcements/298J9SI20C1XUFSN/?utm_source=openai)).  
+- **streetTRACKS Straits Times Index Fund** replacement prospectus updated **26 June 2026** ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/2501?utm_source=openai)).
+
+Neither qualifies as a new filing or announcement in the past week. Therefore:
+
+No entries to report for the period 2026‑07‑04 to 2026‑07‑11.
+
+SECTION B (Active Only: IPO Prospectus page, filtered by Closing Date ≥ 2026‑07‑11 or marked TBA)
+
+From the SGX IPO Prospectus listings retrieved:
+
+1. **streetTRACKS STRAITS TIMES INDEX FUND**  
+   - Prospectus updated 26 June 2026 ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/2501?utm_source=openai)).  
+   - **Closing Date** not specified. Given absence of a past closing date and considering the recent update, this may remain **active** (status ambiguous due to lack of explicit closing date).  
+   - [SGX Source]: IPO – streetTRACKS STRAITS TIMES INDEX FUND
+
+All other entries have **past closing dates** (prior to 11 July 2026) and must therefore be **excluded** per instruction:
+
+- **The Assembly Place Holdings Ltd.** – Closing Date: 21 Jan 2026 ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3440?utm_source=openai)).  
+- **KIN Global Limited** – Closing Date: 21 Apr 2026 ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3443?utm_source=openai)).  
+- **LION SG Physical Gold ETF** – Closing Date: 20 Mar 2026 ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3441?utm_source=openai)).  
+- **JUSTCO Holdings Limited** – Closing Date: 20 May 2026 ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3444?utm_source=openai)).  
+- **UI Boustead REIT** – Closing Date: 10 Mar 2026 ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3442?utm_source=openai)).  
+- **TOKU Ltd.** – Closing Date: 20 Jan 2026 ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3439?utm_source=openai)).  
+- **UOBAM PA FTSE ASEAN DIV ETF** – Closing Date: 26 Jan 2026 ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3436?utm_source=openai)).  
+- **CSOP CSAM CSI A500 Index ETF** – Closing Date: 14 Jan 2026 ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3438?utm_source=openai)).  
+- **SPDR JPM Saudi Arabia AGGBD ACC ETF** – No closing date listed but prospectus dated earlier and likely closed ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3422?utm_source=openai)).
+
+No items are marked "TBA" or "To Be Announced."
+
+---
+
+**Summary (Plain Text)**
+
+SGX connection: SUCCESSFUL: Connected to SGX.
+
+SECTION A (2026‑07‑04 to 2026‑07‑11):
+None — **No newly filed or announced IPOs or ETFs** detected in the past seven days.
+
+SECTION B (Active Items on SGX IPO Prospectus page with Closing Date ≥ 2026‑07‑11 or TBA):
+- streetTRACKS STRAITS TIMES INDEX FUND — Closing Date not specified (potentially still active) — [SGX Source: IPO – streetTRACKS STRAITS TIMES INDEX FUND, updated 26 June 2026].
+
+All other entries have closing dates before 11 July 2026 and are excluded.
+
+---
+
+Should you require monitoring of "To Be Announced" listings or additional follow-ups for future IPO filings, happy to assist.
