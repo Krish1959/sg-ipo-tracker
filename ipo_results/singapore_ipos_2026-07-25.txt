@@ -1,0 +1,32 @@
+Run timestamp: 2026-07-25 02:01:19 +08
+
+BOT CHECK:  
+Status: SGX connection — SUCCESSFUL.
+
+SECTION A (Last 7 Days: from 2026‑07‑18 to 2026‑07‑25)
+
+1. **EGP Energy Corporation Limited**  
+   – Filed IPO prospectus on **21 July 2026**.  
+   – Closing Date is **27 July 2026**, which falls within the last 7 days and is in the future (relative to 25 July 2026). ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3446?utm_source=openai))  
+
+No other newly filed or announced IPOs or ETFs appear in this 7‑day window based on available SGX listings and search results.
+
+SECTION B (Active Only, from SGX IPO Prospectus page with Closing Date ≥ 2026‑07‑25 or TBA)
+
+From the SGX IPO Prospectus page, the only entry meeting the “active” filter is:
+
+- **EGP Energy Corporation Limited** – Closing Date: **27 July 2026**, which is after or equal to today's date (2026‑07‑25). ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3446?utm_source=openai))  
+
+Other entries found on the SGX listing prospectus pages are not IPOs, but refer to debt issuances, bond programmes, or depositary receipts, and do not contain Closing Dates relevant to IPO or ETF offerings.
+
+No ETFs were found in the SGX IPO Prospectus page within the required timeframe.
+
+Plain text summary with SGX source URLs:
+
+SECTION A (Last 7 Days):
+EGP Energy Corporation Limited – IPO prospectus filed 21 July 2026; Closing Date 27 July 2026.  
+Source: SGX IPO Prospectus page – “EGP Energy Corporation Limited” ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3446?utm_source=openai))
+
+SECTION B (Active Only):
+EGP Energy Corporation Limited – Closing Date 27 July 2026 (active).  
+SGX IPO Prospectus page URL: https://links.sgx.com/1.0.0/ipo-prospectus/3446 ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3446?utm_source=openai))
