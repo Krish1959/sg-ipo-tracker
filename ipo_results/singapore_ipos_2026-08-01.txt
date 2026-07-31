@@ -1,0 +1,54 @@
+Run timestamp: 2026-08-01 02:01:06 +08
+
+BOT CHECK: SGX connection status: SUCCESSFUL: Connected to SGX.
+
+SECTION A (Last 7 Days: from 2026‑07‑25 to 2026‑08‑01)
+
+New filings or announcements of IPOs or ETFs on SGX within this window:
+
+- EGP Energy Corporation Limited recently published a Prospectus on 21 July 2026. The closing date was 27 July 2026, which falls within the last seven days. ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3446?utm_source=openai))
+
+No other IPO or ETF prospectus filings or announcements appear to have been made in that 7‑day period.
+
+Therefore, the only newly filed or announced listing in the last 7 days:
+
+Plain text:
+
+EGP Energy Corporation Limited – IPO Prospectus dated 21 July 2026; Closing Date: 27 July 2026 12:00 PM. (Source: SGX) ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3446?utm_source=openai))
+
+SECTION B (Active Only — SGX IPO Prospectus page entries with Closing Date ≥ 2026‑08‑01 or “TBA”)
+
+From SGX IPO Prospectus listings:
+
+- Foundation Healthcare Holdings – Closing Date: 6 July 2026 → EXCLUDE (already closed) ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3445?utm_source=openai))  
+- EGP Energy Corporation Limited – Closing Date: 27 July 2026 → EXCLUDE (closing date before 01 August 2026) ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3446?utm_source=openai))  
+- JustCo Holdings Limited – Closing Date: 20 May 2026 → EXCLUDE ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3444?utm_source=openai))  
+- Kin Global Limited – Closing Date: 21 April 2026 → EXCLUDE ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3443?utm_source=openai))  
+- The Assembly Place Holdings Ltd – Closing Date: 21 January 2026 → EXCLUDE ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3440?utm_source=openai))  
+- Concord New Energy Group Limited – Closing Date: December 2025 → EXCLUDE ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3437?utm_source=openai))  
+- Toku Ltd. – Closing Date: 20 January 2026 → EXCLUDE ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3439?utm_source=openai))  
+- UI Boustead REIT – Closing Date: 10 March 2026 → EXCLUDE ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3442?utm_source=openai))  
+- streetTRACKS Straits Times Index Fund (SPDR STI ETF) – No closing date specified, presumably an ETF prospectus with no Closing Date field shown → could be TBA / not shown; but lacking a Closing Date before present. However, since no close date is indicated, might count as “active” if indeed unscheduled. ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/2501?utm_source=openai))  
+- CSOP CSI A500 Index ETF – Closing Date: 14 January 2026 → EXCLUDE ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3438?utm_source=openai))
+
+Thus, under "active only" filter:
+
+- streetTRACKS Straits Times Index Fund (State Street SPDR STI ETF) – Closing Date not specified (TBA/Absent) – include. ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/2501?utm_source=openai))
+
+All other entries have closing dates prior to 1 August 2026 and are excluded.
+
+Plain text list, including SGX source URLs:
+
+1. streetTRACKS Straits Times Index Fund (State Street SPDR STI ETF) – ETF prospectus; Closing Date: not specified (“TBA” or absent). Source: SGX IPO prospectus page. ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/2501?utm_source=openai))
+
+No other active listings matching criteria.
+
+Summary:
+
+SECTION A (Last 7 Days):
+
+- EGP Energy Corporation Limited – IPO Prospectus (21 July 2026); Closing Date: 27 July 2026. Source: SGX IPO prospectus page. ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3446?utm_source=openai))
+
+SECTION B (Active Only):
+
+- streetTRACKS Straits Times Index Fund (State Street SPDR STI ETF) – ETF prospectus; Closing Date unspecified (TBA). Source: SGX IPO prospectus page. ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/2501?utm_source=openai))
