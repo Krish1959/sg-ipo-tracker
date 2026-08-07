@@ -1,0 +1,35 @@
+Run timestamp: 2026-08-08 02:01:18 +08
+
+BOT CHECK: SGX connection status: SUCCESSFUL: Connected to SGX.
+
+SECTION A – Last 7 Days (2026‑08‑02 to 2026‑08‑08):
+I could not locate any newly filed or officially announced IPOs or ETF listings on SGX within this one‑week window. No SGX corporate announcements, IPO prospectus uploads, or news reports indicate such activity during this period.
+
+SECTION B – Active Only (from SGX IPO Prospectus page, filtered by Closing Date):
+From the SGX IPO Prospectus listings:
+
+1. streetTRACKS STRAITS TIMES INDEX FUND (State Street SPDR STI ETF)
+   – Closing Date: unspecified in excerpt, but information last updated on 26 June 2026 ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/2501?utm_source=openai)). Since we lack a specific “Closing Date” and can’t confirm if it is before or after 2026‑08‑08, I **cannot confirm inclusion** under your criteria.
+
+2. CSOP CSAM CSI A500 INDEX ETF
+   – Closing Date: January 14, 2026 — **excluded** (closed before 2026‑08‑08) ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3438?utm_source=openai)).
+
+3. DBXT IBOXX SINGAPORE ETF 5 (db x-trackers II Markit iBoxx ABF Singapore Government Index ETF)
+   – Prospectus appears current; no Closing Date specified in this excerpt. Since “Closing Date” isn’t visible, we cannot determine if it’s past—so **cannot confirm** inclusion ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/2992?utm_source=openai)).
+
+No entries with explicit Closing Dates on or after 2026‑08‑08 or marked “TBA” were observed in the accessible prospectus page excerpts.
+
+Thus, based on the available information, there are **no active IPOs or ETFs** on the SGX Prospectus page with Closing Dates today or in the future, nor explicitly marked as “TBA.”
+
+SGX Prospectus source URLs:
+- For streetTRACKS STRAITS TIMES INDEX FUND: https://links.sgx.com/1.0.0/ipo-prospectus/2501 ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/2501?utm_source=openai))  
+- For CSOP CSI A500 INDEX ETF: https://links.sgx.com/1.0.0/ipo-prospectus/3438 ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/3438?utm_source=openai))  
+- For DBXT iBoxx Singapore ETF 5: https://links.sgx.com/1.0.0/ipo-prospectus/2992 ([links.sgx.com](https://links.sgx.com/1.0.0/ipo-prospectus/2992?utm_source=openai))
+
+---
+
+Summary:
+- SECTION A: No IPOs or ETFs announced between August 2–8, 2026.
+- SECTION B: No active entries found with Closing Dates ≥ 2026‑08‑08 or marked TBA, based on available prospectus data.
+
+Let me know if you’d like me to monitor SGX announcements daily or adjust filters.
